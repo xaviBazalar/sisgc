@@ -1,0 +1,42 @@
+/* Copyright Dynarch.com, 2003-2006.  All Rights Reserved. */
+
+@import url("hmenu.css");
+
+/* horizontal parts */
+
+div.dynarch-horiz-menu {
+	color: #000; 
+	border-width:0px;
+	height:30px;
+	/*border-color: #52a2ff #3182e7 #52a2ff #428aef;*/
+	padding:0;
+	margin:0;	
+	}
+div.dynarch-horiz-menu table { color: #000; }
+div.dynarch-horiz-menu table tr td { 
+	border:1px solid #A9A9A9; 
+	background: url(../style/blue/images/bg_item_hover.jpg) left top repeat-x;
+	color:#000;
+	text-decoration:none;
+	padding:3px 13px 4px 13px;
+	margin:0;
+	}
+div.dynarch-horiz-menu table tr td.hover { background-color: #FFF; color: #fff; cursor:pointer; }
+div.dynarch-horiz-menu table tr td.active { background-color: #297de7; color: #fff; }
+div.dynarch-horiz-menu table tr td.pressed { background-color: #79cdf7; padding: 0px 2px 5px 4px; }
+div.dynarch-horiz-menu table tr td.hover table,
+div.dynarch-horiz-menu table tr td.active table { color: #fff; }
+div.dynarch-horiz-menu table tr td.separator { width: 7px; }
+div.dynarch-horiz-menu table tr td.separator div { border-right-color: #FFF;/*#3182e7;*/ border-left: none; margin-right: 3px; }
+
+/* vertical parts */
+
+div.dynarch-popup-menu { border-color: #A9A9A9 #A9A9A9 #A9A9A9 #A9A9A9; color: #000; background-color: #fff; padding: 0; }
+div.dynarch-popup-menu div.d { border-left: 1px solid #D3D3D3; }
+/*div.dynarch-popup-menu div.c { border-left: 1px solid #2979e7; }
+div.dynarch-popup-menu div.b { border-left: 1px solid #297de7; }
+div.dynarch-popup-menu div.a { border-left: 1px solid #3182ef; }*/
+div.dynarch-popup-menu tr.item td.icon { padding: 1px 1px 1px 3px; }
+div.dynarch-popup-menu tr.separator td div { background: url("img/xp/separator.gif") no-repeat 50% 50%; }
+div.dynarch-popup-menu tr.item.hover, div.dynarch-popup-menu tr.item.active { background-color: #696969; color: #fff; cursor:pointer; }
+div.dynarch-popup-menu tr.item.hover td.icon, div.dynarch-popup-menu tr.item.active td.icon { background-color: #696969;  cursor:pointer;}

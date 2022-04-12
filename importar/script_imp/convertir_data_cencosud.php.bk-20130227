@@ -1,0 +1,184 @@
+<?php
+	ini_set('memory_limit', '-1');
+	set_time_limit(1800);
+	echo "<pre style='font-size=8px;'>";
+	$n=0;
+	$flag=0;
+
+	function limpiar_espacios($x){
+			$nombre=explode(" ",$x);
+			$nombre_r="";
+			for($i=0;$i<=count($nombre);$i++){
+				
+				if($nombre[$i]!=""){
+					$nombre_r.=$nombre[$i]." ";
+				}
+				
+			}
+			
+			return $nombre_r;
+	}
+	
+	function fecha($x){
+	/*Formato mmddyyyy a yyyy-mm-dd*/
+			$ano=substr($x,4,4);
+			$mes=substr($x,0,2);
+			$dia=substr($x,2,2);
+			
+			$fecha=(string)$ano."-".$mes."-".$dia;
+			
+			return $fecha;
+	}
+
+	$archivo=$_GET['archivo'];
+	$fp = fopen("$archivo", 'r') or die("Error");
+
+	$ctas= array();
+	$ls="";
+	while (!feof($fp))
+	{
+		$n++;
+		
+			$linea=fgets($fp);
+			//$linea=str_replace(" ","_",$linea);
+			//echo strlen($linea)."<br>";
+			$ctas[$n]['EMPRESA']=substr($linea,0,8);
+			$ctas[$n]['NUM_CTA']=substr($linea,8,25);
+			$ctas[$n]['GRUPO_CIERRE']=trim(substr($linea,33,2));
+			$ctas[$n]['COD_DOC']=trim(substr($linea,35,25));
+			$ctas[$n]['FEC_NAC']=substr($linea,60,8);
+			$ctas[$n]['SEXO']=substr($linea,68,1);
+			$ctas[$n]['RIESGO']=substr($linea,69,3);
+			$ctas[$n]['FECHA_ACTV']=fecha(substr($linea,72,8));
+			$ctas[$n]['DIAS_MORA']=trim(substr($linea,80,5));
+			$ctas[$n]['SALDO_FACTURADO_ACTUAL']=(trim(substr($linea,85,9)))/100;
+			$ctas[$n]['SALDO_TOTAL']=trim(substr($linea,94,15));
+			$ctas[$n]['LINEA_TC']=trim(substr($linea,109,15));
+			$ctas[$n]['COD_SUC']=trim(substr($linea,124,5));
+			$ctas[$n]['FLG_RF']=substr($linea,129,1);
+			$ctas[$n]['FLG_CASTIGO']=substr($linea,130,1);
+			$ctas[$n]['PMIN1 ']=(trim(substr($linea,131,9)))/100;
+			$ctas[$n]['SAL_FACT1']=(trim(substr($linea,140,9)))/100;
+
+			$ctas[$n]['NOM_COMPLETO']=limpiar_espacios(substr($linea,149,80));
+			
+			$ctas[$n]['DIR_DOMICILIO']=limpiar_espacios(substr($linea,229,80));
+			$ctas[$n]['DIR_DOMICILIO2']=limpiar_espacios(substr($linea,309,80));
+			$ctas[$n]['DISTRITO_DOMICILIO']=limpiar_espacios(substr($linea,389,80));
+			$ctas[$n]['PROVINCIA_DOMICILIO']=limpiar_espacios(substr($linea,469,80));
+			$ctas[$n]['DEPARTAMENTO_DOMICILIO']=limpiar_espacios(substr($linea,549,40));
+			$ctas[$n]['EMPRESA2']=limpiar_espacios(substr($linea,589,80));
+			$ctas[$n]['DIR_LABORAL']=limpiar_espacios(substr($linea,659,80));
+			$ctas[$n]['DIR_LABORAL2']=limpiar_espacios(substr($linea,749,80));
+			$ctas[$n]['DISTRITO_LABORAL']=limpiar_espacios(substr($linea,829,80));
+			$ctas[$n]['PROVINCIA_LABORAL']=limpiar_espacios(substr($linea,909,80));
+			$ctas[$n]['DEPARTAMENTO_LABORAL']=limpiar_espacios(substr($linea,989,40));
+			
+			$ctas[$n]['NRO_CALLE_PARTICULAR']=limpiar_espacios(substr($linea,1029,5));
+			$ctas[$n]['NRO_CALLE_LABORAL']=limpiar_espacios(substr($linea,1034,5));
+
+			$ctas[$n]['TIPO_TELEFONO1 ']=substr($linea,1039,3);
+			$ctas[$n]['CODIGO_DISCADO_DIRECTO1']=substr($linea,1042,5);
+			$ctas[$n]['TEL1']=substr($linea,1047,13);
+			$ctas[$n]['TIPO_TELEFONO2']=substr($linea,1060,3);
+			$ctas[$n]['CODIGO_DISCADO_DIRECTO2']=substr($linea,1063,5);
+			$ctas[$n]['TEL2']=substr($linea,1068,13);
+			$ctas[$n]['TIPO_TELEFONO3']=substr($linea,1081,3);
+			$ctas[$n]['CODIGO_DISCADO_DIRECTO3']=substr($linea,1084,5);
+			$ctas[$n]['TEL3']=substr($linea,1089,13);
+			//if($n==3){break;}	
+	
+	}	
+	//var_dump($ctas);
+
+	fclose($fp);
+	
+	$fp2=fopen("Ae7_CENCO_".date("Ymd-His").".txt", 'w') or die("Error");
+	$titulo="EMPRESA	NUM_CTA	GRUPO_CIERRE	COD_DOC	FEC_NAC	SEXO	RIESGO	FECHA_ACTV	DIAS_MORA	SALDO_FACTURADO_ACTUAL	SALDO_TOTAL	LINEA_TC	COD_SUC	FLG_RF";
+	$titulo.="	FLG_CASTIGO	PMIN1	SAL_FACT1	NOM_COMPLETO	DIR_DOMICILIO	DIR_DOMICILIO2	DISTRITO_DOMICILIO	PROVINCIA_DOMICILIO	DEPARTAMENTO_DOMICILIO	EMPRESA";
+	$titulo.="	DIR_EMPRESA	DIR_EMPRESA	DISTRITO_EMPRESA	PROVINCIA_EMPRESA	DEPARTAMENTO_EMPRESA	NRO_CALLE_PARTICULAR	NRO_CALLE_LABORAL	TIPO_TELEFONO1	CODIGO_DISCADO_DIRECTO1	TEL1	TIPO_TELEFONO2	CODIGO_DISCADO_DIRECTO2";
+	$titulo.="	TEL2	TIPO_TELEFONO3	CODIGO_DISCADO_DIRECTO3	TEL3";
+	
+	fwrite($fp2, $titulo);
+	fwrite($fp2 , chr(13).chr(10));
+	
+	for ($i=1;$i<count($ctas);$i++){
+			if($ctas[$i]['EMPRESA']==""){
+				continue;
+			}
+		
+			$linea=$ctas[$i]['EMPRESA']."\t";
+			$linea.=$ctas[$i]['NUM_CTA']."\t";
+			$linea.=$ctas[$i]['GRUPO_CIERRE']."\t";
+			$linea.=$ctas[$i]['COD_DOC']."\t";
+			$linea.=$ctas[$i]['FEC_NAC']."\t";
+			$linea.=$ctas[$i]['SEXO']."\t";
+			$linea.=$ctas[$i]['RIESGO']."\t";
+			$linea.=$ctas[$i]['FECHA_ACTV']."\t";
+			$linea.=$ctas[$i]['DIAS_MORA']."\t";
+			$linea.=$ctas[$i]['SALDO_FACTURADO_ACTUAL']."\t";
+			$linea.=$ctas[$i]['SALDO_TOTAL']."\t";
+			$linea.=$ctas[$i]['LINEA_TC']."\t";
+			$linea.=$ctas[$i]['COD_SUC']."\t";
+			$linea.=$ctas[$i]['FLG_RF']."\t";
+			$linea.=$ctas[$i]['FLG_CASTIGO']."\t";
+			$linea.=$ctas[$i]['PMIN1 ']."\t";
+			$linea.=$ctas[$i]['SAL_FACT1']."\t";
+			$linea.=$ctas[$i]['NOM_COMPLETO']."\t";
+			
+			$linea.=$ctas[$i]['DIR_DOMICILIO']."\t";
+			$linea.=$ctas[$i]['DIR_DOMICILIO2']."\t";
+			$linea.=$ctas[$i]['DISTRITO_DOMICILIO']."\t";
+			$linea.=$ctas[$i]['PROVINCIA_DOMICILIO']."\t";
+			$linea.=$ctas[$i]['DEPARTAMENTO_DOMICILIO']."\t";
+			$linea.=$ctas[$i]['EMPRESA2']."\t";
+			$linea.=$ctas[$i]['DIR_EMPRESA']."\t";
+			$linea.=$ctas[$i]['DIR_EMPRESA2']."\t";
+			$linea.=$ctas[$i]['DISTRITO_EMPRESA']."\t";
+			$linea.=$ctas[$i]['PROVINCIA_EMPRESA']."\t";
+			$linea.=$ctas[$i]['DEPARTAMENTO_EMPRESA']."\t";
+			
+			$linea.=$ctas[$i]['NRO_CALLE_PARTICULAR']."\t";
+			$linea.=$ctas[$i]['NRO_CALLE_LABORAL']."\t";
+			
+			
+			$linea.=$ctas[$i]['TIPO_TELEFONO1 ']."\t";
+			$linea.=$ctas[$i]['CODIGO_DISCADO_DIRECTO1']."\t";
+			$linea.=$ctas[$i]['TEL1']."\t";
+			$linea.=$ctas[$i]['TIPO_TELEFONO2']."\t";
+			$linea.=$ctas[$i]['CODIGO_DISCADO_DIRECTO2']."\t";
+			$linea.=$ctas[$i]['TEL2']."\t";
+			$linea.=$ctas[$i]['TIPO_TELEFONO3']."\t";
+			$linea.=$ctas[$i]['CODIGO_DISCADO_DIRECTO3']."\t";
+			$linea.=$ctas[$i]['TEL3']."\t";
+			//echo $linea;
+			fwrite($fp2, $linea);
+			fwrite($fp2 , chr(13).chr(10));
+
+	}
+	fclose($fp2);
+	echo "Archivo Convertido:<a href='importar/script_imp/Ae7_CENCO_".date("Ymd-His").".txt' target='blank' >Ae7_CENCO_".date("Ymd-His").".txt</a><br/>";
+
+	/*
+	$fp = fopen("Ae1_CENCO.txt", 'r');
+	$fp2=fopen("Ae1_CENCO_C.txt", 'w') or die("Error");
+
+
+	while (!feof($fp))
+	{
+		$n++;
+		
+			$linea=fgets($fp);
+			$linea=str_replace("\n","",$linea);
+			fwrite($fp2, $linea);
+			fwrite($fp2 , chr(13).chr(10));
+
+			
+	
+	}
+
+	fclose($fp);
+	fclose($fp2);
+	*/
+
+?>

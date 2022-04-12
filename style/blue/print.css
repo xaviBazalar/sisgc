@@ -1,0 +1,271 @@
+/* CSS Document */
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	overflow:visible;
+	padding: 0px;
+	background-color: #FFF;/*#8DACCB;*/
+	font-size: 11px;
+	font-family: Arial, sans-serif;
+}
+#ykMain {
+	height: 100%;
+	width: 100%;
+	left: 0%;
+	top: 0%;
+	position: relative;
+	padding:0;
+	margin:0;
+}
+#ykHead {
+	height:75px;
+	background-image:none;
+	overflow:hidden;
+	visibility:hidden;
+	display:none;
+	}
+#ykBody {
+	width:100%;
+	padding:0px;
+	margin:0px;
+	overflow:visible;
+	display:block;
+	visibility:visible;
+	position:relative;
+}	
+#main_sys {
+	width:100%;
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 10px 10px 10px 0px;
+	visibility:visible;
+	position:relative;
+	}
+	#main_sys h1 {
+		margin:0;
+		padding:5px 0 5px 0; 
+		color: #335C9E;
+		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+		font-size:16px;
+		letter-spacing: normal;
+		}
+	.TabbedPanels, .TabbedPanelsContent {
+		padding:0;
+		margin:0;
+		width:100%;
+	}
+	.TabbedPanelsTabGroup, .TabbedPanelsTab {
+		display:none;
+		visibility:hidden;
+		}
+	.TabbedPanelsContentGroup {
+		border:0px solid #FFFFFF;
+		padding:0;
+		margin:0;
+		width:100%;
+		}	
+#areaList {
+	width:100%;
+	padding:0;
+	margin:0;
+	}		
+/*-------- Styles for tables --------*/
+		/*****  Desgin1  *****/
+		#design1 {
+			width:100%;
+			border:0px solid #D5D5D5;
+			margin: 0px;
+			padding: 0px;
+			}
+		#design1 table {
+			width:100%;
+			color:#1F1F1F;
+			margin:0;
+			padding:0;
+			margin-bottom:15px;
+			margin-top:10px;
+			width:100%;
+			border-collapse:collapse;
+			}
+		#design1 table thead td {	
+			color:#999999;
+			font-weight:normal;
+		}
+		#design1 table thead td a{ color:#0099FF; }
+		#design1 table thead td a:hover{ text-decoration:none;}
+		#design1 table thead th {
+				color: #000000; 
+				font-size: 11px; 
+				border-bottom: 2px solid #376EBE; 
+				border-top: 1px solid #E5EEFA; 
+				padding-top: 5px; 
+				padding-bottom: 5px; 
+				background-color: #F3F8FF;
+				background-image:url(../images/bg_th.gif);
+				background-position:left top;
+				background-repeat:repeat-x;
+				}
+		#design1 table thead th a{
+			color:#000;
+			text-decoration:none;
+			border-bottom:1px solid #333;
+		}
+		#design1 table thead th a:hover{
+			color:#333;
+			text-decoration:none;
+			border-bottom:1px solid #333;
+		}
+		#design1 table tbody th {
+			color: #000000; 
+			font-size: 11px; 
+			border-top: 1px solid #E5EEFA; 
+			border-bottom: 1px solid #CADBE5;
+			padding-top: 5px; 
+			padding-bottom: 5px;
+			background-color: #F3F8FF;
+		}	
+		#design1 table tbody .thx {
+			text-align:right;
+			padding-right:10px;
+			background:none;
+			}
+		#design1 table tbody td{
+			border-bottom: 1px solid #CADBE5; 
+			font-size: 11px; 
+			padding-left: 5px;
+			padding-top:2px;
+			padding-bottom:2px;
+			}
+		#design1 table tbody tr.rows1 { background-color:#FFFFFF; }
+		#design1 table tbody tr.rows2 { background-color: #F9FCFF; }
+		/*#design1 table tbody tr.gris { background-color:#CCCCCC; } /*Para sombrear fila*/
+		#design1 .gris { background-color:#E1E1E1;}
+		#design1 .gris_rojo { background-color:#E1E1E1; color:#FF0000;}
+		#design1 .gris_negrita { background-color:#E1E1E1; font-weight:bold;}
+		#design1 .negrita { font-weight:bold;}
+		#design1 table tbody tr.rowshover { 
+			border-bottom: 1px solid #CADBE5; 
+			font-size: 11px; 
+			padding-left: 5px; 
+			background-color: #FFFDE9; 
+			}
+		#design1 table tbody td a:link, #design1 tbody td a:active {
+			text-decoration:underline; 
+			color:#325DB5;
+			}
+		#design1 table tbody td .textbox {
+			background:#FFFFFF;
+			color:#006699;
+			border:1px solid #76A8DE;
+			padding-left:1px;
+			cursor:text;
+			}	
+		#design1 table tbody td input {
+			color:#FFF; font-size:10px;
+			border-width:1px; border-style:solid; border-color:#76A8DE #2D6BB0 #2D6BB0 #76A8DE;
+			margin:0; padding:2px 10px 2px 10px;
+			background: url(../../../images/bg_boton.gif) left top repeat-x;
+			cursor:pointer;
+		}
+		#design1 table tbody td a:visited {color:#325DB5;}
+		#design1 table tbody td a:hover {text-decoration:none;}	
+		#design1 table tfoot td {
+			border-bottom:1px solid #FFFFFF;
+			color:#999999;
+			}
+		#design1 table tfoot td a{ color:#0099FF;	}
+		#design1 table tfoot td a:hover{ text-decoration:none;}
+		/***** End de Design1 *****/
+		
+		#design1 .cuadricula {
+			border-left:1px solid #E2ECF3;
+			border-top:1px solid #E2ECF3;
+			}
+			.cuadricula tbody td{
+				border:1px solid #E2ECF3;
+				text-align:right;
+			}	
+			.cuadricula .izquierda {
+				text-align:left;
+			}
+			.cuadricula .sub_total {
+			background-color:#999;
+			font-weight:bold;
+			color:#FFF;
+			}
+
+		.impresion {
+			background:url(../../../images/printer.gif) left top no-repeat;
+			padding:2px 5px 5px 25px;
+			color:#006699;
+			display:none;
+			visibility:hidden;
+			}
+		.no-print {
+			display:none;
+			visibility:hidden;
+			}	
+/****/
+form {
+	width: auto;
+	padding: 20px;
+	border: 0px;
+}
+input, select, textarea {
+	border:1px solid #76A8DE;
+	margin-bottom:1px;
+	padding:2px;
+	font-size:12px;
+	}
+input:hover, select:hover, textarea:hover {
+	background-color:#F8F3DC;
+	}
+input:focus, select:focus, textarea:focus {
+	border:1px solid #006699;
+	background-color:#F8F3DC;
+	}
+fieldset{
+	margin: 10px 0px;
+	padding: 10px;
+	border:1px solid #76A8DE;
+	background-color:#F9FCFF;
+}
+
+* html fieldset{
+	padding-top: 10px;
+}
+
+legend{
+	font-family: Verdana, Alial, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	color:#006699; 
+	padding: 3px 5px;
+
+}
+/*Styles de filas.css para imprimir*/
+#tabla_cuentas thead th {
+	font-size:10px;}
+.tabla_listado thead, .tabla_listado thead th{
+	font-size:9px;
+	white-space:normal;
+}
+.tabla_listado table tbody tr td .nobr{
+	font-size:10px;
+	white-space:normal;
+	vertical-align:top;
+}
+.tabla_listado tbody, .tabla_listado tbody td {
+	font-size:10px;
+	white-space:normal;
+	vertical-align:top;
+}
+.oculto {
+	display:none;
+	visibility:hidden;
+	}
+.numero_oculto {
+	display:none;
+	visibility:hidden;
+	}	

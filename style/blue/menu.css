@@ -1,0 +1,172 @@
+/*****************************
+ ****   sfdropdown menu   ****
+ *****************************/
+
+#nav {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	line-height: 1;
+	background-color: #F3F5F4; /*#3F4345;	/*height: 23px;*/
+}
+
+#nav a {
+	display: block;
+	padding: 0em 1.5em 0.2em 1.1em;
+	font-size: 1em;
+	font-family: Arial, sans-serif;
+	line-height: 12px;
+	margin-top: 5px;
+	text-decoration: none;
+	color:#000000; /*#ffffff;*/
+	text-decoration: none;
+}
+
+#nav ul {
+	float: left;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	text-align: left;
+	/*background-color:#F3F5F4;*/
+}
+
+#nav ul a {
+	display: block;
+	color:#3F4345; /*#FFFFFF;*/
+	text-decoration: none;
+	padding: 0em 1em;
+	font-size: 1em;
+	text-transform: none;
+	background: 0 url(none) no-repeat;
+}
+
+/* sub level links */
+#nav ul ul a {
+	display: block;
+	color: #ffffff;
+	text-decoration: none;
+	padding: 0em 1.1em 0.2em 1.1em;
+	font-size: 1em;
+	text-transform: none;
+	background: #F3F5F4;
+}
+
+/* top level buttons */
+#nav li {
+	float: left;
+	padding: 0;
+	height: 23px;
+	background-color:#F3F5F4;
+}
+
+#nav ul li {
+	position: relative;
+
+}
+
+#nav li ul { /* second-level lists */
+	top: 23px;
+	position: absolute;
+	width: 15em;
+	left: -999em; /* using left instead of display to hide menus because display: none isn't read by screen readers */
+	height: auto;
+	font-weight: normal;
+	border-width: 0;
+	margin: 0;
+	padding: 0;
+	z-index:999;
+	overflow:visible;
+}
+
+#nav li li {
+	float: left;
+	padding: 0;
+  	width: 15em;
+}
+
+#nav li ul ul { /* third-and-above-level lists */
+	/*margin: -1em 0 0 10em;*/
+	margin: -23px 0 0 15em;
+}
+
+#nav li:hover ul ul, 
+#nav li:hover ul ul ul, 
+#nav li:hover ul ul ul ul, 
+#nav li.sfhover ul ul, 
+#nav li.sfhover ul ul ul, 
+#nav li.sfhover ul ul ul ul {
+	left: -999em;
+}
+
+#nav li:hover ul, 
+#nav li li:hover ul, 
+#nav li li li:hover ul, 
+#nav li li li li:hover ul, 
+#nav li.sfhover ul, 
+#nav li li.sfhover ul, 
+#nav li li li.sfhover ul, 
+#nav li li li li.sfhover ul { /* lists nested under hovered list items */
+	left: 0;
+	z-index: 100;
+}
+
+/* rightAligned submenus */
+#nav li:hover ul.rightAligned, 
+#nav li li:hover ul.rightAligned, 
+#nav li li li:hover ul.rightAligned, 
+#nav li li li li:hover ul.rightAligned,
+#nav li.sfhover ul.rightAligned, 
+#nav li li.sfhover ul.rightAligned, 
+#nav li li li.sfhover ul.rightAligned,
+#nav li li li li.sfhover ul.rightAligned{
+	z-index: 100;
+	left: -8.5em;
+}
+
+#nav li:hover, 
+#nav li.sfhover {
+	left: 0;
+}
+
+#nav li:hover a, 
+#nav li.sfhover a {
+    color: #ffffff;
+}
+
+#nav li li:hover a, 
+#nav li li.sfhover a {
+    color: #ffffff;
+
+}
+
+#nav li:hover a, 
+#nav li.sfhover a {
+	background-position: 0 -35px;
+}
+
+#nav ul ul a.submenu {
+   background: url(../images/arrow_dropdown_sub.gif) 100% 3px no-repeat; 
+}
+
+#nav a.loginArrow {
+	background: url(../images/arrow_dropdown_login.gif) no-repeat;
+	color: #0066CC;/*#3F4345; /*#c6de56;*/
+}
+
+#nav li:hover ul, 
+#nav li li:hover ul, 
+#nav li li li:hover ul, 
+#nav li li li li:hover ul,
+#nav li.sfhover ul, 
+#nav li li.sfhover ul, 
+#nav li li li.sfhover ul,
+#nav li li li li.sfhover ul{
+	background: #2b6bb4;
+}
+
+#nav li:hover, 
+#nav li.sfhover {
+	background-color:#297DE7; /*#c6de56;*/
+}
+#nav ul.derecha {float:right;}

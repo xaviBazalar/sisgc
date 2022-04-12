@@ -1,0 +1,4392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cuentas>
+  <fila id="439834200-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1798325</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>20518284615</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Latino Import Y Export Sac  </cliente>
+    <idcuenta>439834200-1</idcuenta>
+    <diasmora>121</diasmora>
+    <grupo>1R</grupo>
+    <imptot>8290.87</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458751286-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1798220</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80224111</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jose Luis Ancajima Vasquez</cliente>
+    <idcuenta>458751286-1</idcuenta>
+    <diasmora>163</diasmora>
+    <grupo>3</grupo>
+    <imptot>8020.03</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="417995377-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1738187</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06570821</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Edgardo Roman Sierra</cliente>
+    <idcuenta>417995377-1</idcuenta>
+    <diasmora>158</diasmora>
+    <grupo>3</grupo>
+    <imptot>7617.07</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443730628-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1795356</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80095508</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Prestilita Chuquimango Vargas</cliente>
+    <idcuenta>443730628-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>6916.10</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="429055803-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1798230</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41998306</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Hilda Gutierrez Choquecondo</cliente>
+    <idcuenta>429055803-1</idcuenta>
+    <diasmora>163</diasmora>
+    <grupo>3</grupo>
+    <imptot>6185.98</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="454840217-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1794641</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>31680675</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Blanca Alvarado Alejo</cliente>
+    <idcuenta>454840217-1</idcuenta>
+    <diasmora>154</diasmora>
+    <grupo>3</grupo>
+    <imptot>6141.11</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447996517-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1739120</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>04030804</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Milton Muñoz Borja</cliente>
+    <idcuenta>447996517-1</idcuenta>
+    <diasmora>158</diasmora>
+    <grupo>3</grupo>
+    <imptot>6034.72</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428673198-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1795375</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41986038</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Romulo Luna Rodriguez</cliente>
+    <idcuenta>428673198-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>5657.99</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="425269787-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1824024</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>20070908</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Ivan Jesus Flores Garcia</cliente>
+    <idcuenta>425269787-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>5034.56</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458754412-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1794586</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41047527</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Laura Huaman Huamani</cliente>
+    <idcuenta>458754412-1</idcuenta>
+    <diasmora>157</diasmora>
+    <grupo>3</grupo>
+    <imptot>4781.84</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428695639-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1794925</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09061593</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maxima Castillo Rodriguez</cliente>
+    <idcuenta>428695639-1</idcuenta>
+    <diasmora>157</diasmora>
+    <grupo>3</grupo>
+    <imptot>4172.57</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458778930-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1794989</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41541954</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jaime Shica Fabian</cliente>
+    <idcuenta>458778930-1</idcuenta>
+    <diasmora>157</diasmora>
+    <grupo>3</grupo>
+    <imptot>4154.79</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="421733500-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1738224</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07394658</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Teofila Junco Cardenas</cliente>
+    <idcuenta>421733500-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>4014.04</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443771960-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1739379</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42343573</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Ana Roxana Astucuri Flores</cliente>
+    <idcuenta>443771960-1</idcuenta>
+    <diasmora>154</diasmora>
+    <grupo>3</grupo>
+    <imptot>3906.35</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443703957-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1795041</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41881262</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Miguel Angel Duran Crispin</cliente>
+    <idcuenta>443703957-1</idcuenta>
+    <diasmora>160</diasmora>
+    <grupo>3</grupo>
+    <imptot>3258.98</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447490460-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1798244</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40486416</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Alicia Jesica Gonzales Benito</cliente>
+    <idcuenta>447490460-1</idcuenta>
+    <diasmora>158</diasmora>
+    <grupo>3</grupo>
+    <imptot>3256.55</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440010926-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1799042</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>31661490</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Patricia Shirley Huerta </cliente>
+    <idcuenta>440010926-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>3105.89</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443790220-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1798531</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06606069</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Santos Canchari Gonzales</cliente>
+    <idcuenta>443790220-1</idcuenta>
+    <diasmora>120</diasmora>
+    <grupo>1R</grupo>
+    <imptot>3094.80</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428702538-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1798635</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10067995</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>JUAN CARLOS RUIZ GONZALEZ</cliente>
+    <idcuenta>428702538-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>3034.12</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436294753-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1739566</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00517893</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Faustino Valdiglesias Oscco</cliente>
+    <idcuenta>436294753-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>2945.49</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428645640-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1795155</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08334491</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Luzmila Huaman Guevara</cliente>
+    <idcuenta>428645640-1</idcuenta>
+    <diasmora>160</diasmora>
+    <grupo>3</grupo>
+    <imptot>2912.31</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443703817-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803553</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47051071</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Alfredo Chiroque Carrera</cliente>
+    <idcuenta>443703817-1</idcuenta>
+    <diasmora>160</diasmora>
+    <grupo>3</grupo>
+    <imptot>2859.23</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="439788234-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1795218</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08671248</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Eleodoro Loayza Gomez</cliente>
+    <idcuenta>439788234-1</idcuenta>
+    <diasmora>162</diasmora>
+    <grupo>3</grupo>
+    <imptot>2842.87</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458789402-1">
+    <fec_ges_max>2011-10-15</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1796309</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>32042626</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Edgar Enrique Casimiro </cliente>
+    <idcuenta>458789402-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>2827.51</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428836240-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1795403</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06747346</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Ygnacio Pozo Soto</cliente>
+    <idcuenta>428836240-1</idcuenta>
+    <diasmora>157</diasmora>
+    <grupo>3</grupo>
+    <imptot>2785.23</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="462986070-1">
+    <fec_ges_max>2011-10-15</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1739614</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41339324</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Layda Flores Cuevas</cliente>
+    <idcuenta>462986070-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>2776.74</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440010586-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1839474</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>04402816</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Lourdes Huaracallo</cliente>
+    <idcuenta>440010586-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>2680.87</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447826859-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1830222</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10045612</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Robert Pedro Falcon Quispe</cliente>
+    <idcuenta>447826859-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>2606.05</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="444116168-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1798866</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09464927</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Clara Bertha Quispe Alarcon</cliente>
+    <idcuenta>444116168-1</idcuenta>
+    <diasmora>117</diasmora>
+    <grupo>1R</grupo>
+    <imptot>2585.94</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432380400-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1740177</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44245866</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rosa Carlos De La Cruz</cliente>
+    <idcuenta>432380400-1</idcuenta>
+    <diasmora>157</diasmora>
+    <grupo>3</grupo>
+    <imptot>2424.57</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="451492366-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1712679</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>29694642</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Sabina Yupanqui Velasco</cliente>
+    <idcuenta>451492366-1</idcuenta>
+    <diasmora>160</diasmora>
+    <grupo>3</grupo>
+    <imptot>2421.58</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="463007395-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1796499</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43339909</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Eva Regina Rafael Pampa</cliente>
+    <idcuenta>463007395-1</idcuenta>
+    <diasmora>155</diasmora>
+    <grupo>3</grupo>
+    <imptot>2402.57</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="439981417-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1796520</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06253356</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Lucio Limachi Aguilar</cliente>
+    <idcuenta>439981417-1</idcuenta>
+    <diasmora>155</diasmora>
+    <grupo>3</grupo>
+    <imptot>2351.02</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458771554-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1745060</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>20048447</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Hipolita Cuevas Quispe</cliente>
+    <idcuenta>458771554-1</idcuenta>
+    <diasmora>163</diasmora>
+    <grupo>3</grupo>
+    <imptot>2252.52</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447550550-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1841661</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43217517</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Leovegildo Alvino Cori</cliente>
+    <idcuenta>447550550-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>2232.83</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="451476638-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1804275</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>27564259</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jose Rodas Guevara</cliente>
+    <idcuenta>451476638-1</idcuenta>
+    <diasmora>162</diasmora>
+    <grupo>3</grupo>
+    <imptot>2210.94</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="459006169-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1835063</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42930596</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Elar Hernandez Burga</cliente>
+    <idcuenta>459006169-1</idcuenta>
+    <diasmora>117</diasmora>
+    <grupo>1R</grupo>
+    <imptot>2139.35</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="408124393-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1829342</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>20453845274</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Tracomsa S.R.L.</cliente>
+    <idcuenta>408124393-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>2086.93</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="439983487-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1837806</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43024064</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jose Oscco Tonconi</cliente>
+    <idcuenta>439983487-1</idcuenta>
+    <diasmora>155</diasmora>
+    <grupo>3</grupo>
+    <imptot>2020.08</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="463241762-1">
+    <fec_ges_max>2011-10-14</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1795722</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>19328916</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Manuel Terrones Ventura</cliente>
+    <idcuenta>463241762-1</idcuenta>
+    <diasmora>157</diasmora>
+    <grupo>3</grupo>
+    <imptot>2014.64</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436303787-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1796397</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40583148</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Santos Arellano Guillen</cliente>
+    <idcuenta>436303787-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>2004.65</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447473948-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1795831</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10563194</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Caira Mamani Sonia Ines</cliente>
+    <idcuenta>447473948-1</idcuenta>
+    <diasmora>159</diasmora>
+    <grupo>3</grupo>
+    <imptot>1985.31</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="375516140-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1740229</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08116302</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Felix Alvarez Sanchez</cliente>
+    <idcuenta>375516140-1</idcuenta>
+    <diasmora>158</diasmora>
+    <grupo>3</grupo>
+    <imptot>1978.95</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458783188-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1804366</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>20491708230</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Empresa Metal Mecanica Multiservicios Sac  </cliente>
+    <idcuenta>458783188-1</idcuenta>
+    <diasmora>160</diasmora>
+    <grupo>3</grupo>
+    <imptot>1978.78</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432840575-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1795916</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10229546</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Luz Desenia Galvez Jaramillo</cliente>
+    <idcuenta>432840575-1</idcuenta>
+    <diasmora>162</diasmora>
+    <grupo>3</grupo>
+    <imptot>1902.30</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432408370-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1825973</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40619531</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Laura Clemencia Marin Marañon</cliente>
+    <idcuenta>432408370-1</idcuenta>
+    <diasmora>155</diasmora>
+    <grupo>3</grupo>
+    <imptot>1838.68</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="451560230-1">
+    <fec_ges_max>2011-10-14</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1796792</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09717374</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Consuelo Alejos Velasquez</cliente>
+    <idcuenta>451560230-1</idcuenta>
+    <diasmora>155</diasmora>
+    <grupo>3</grupo>
+    <imptot>1832.58</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432551182-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803665</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00043782</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Carlos Tuanama Silva</cliente>
+    <idcuenta>432551182-1</idcuenta>
+    <diasmora>157</diasmora>
+    <grupo>3</grupo>
+    <imptot>1827.49</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440005892-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1799802</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>21298044</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Nilda Loayza Meza</cliente>
+    <idcuenta>440005892-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1824.17</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458769649-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1795996</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44349222</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rodolfo Shica Fabian</cliente>
+    <idcuenta>458769649-1</idcuenta>
+    <diasmora>163</diasmora>
+    <grupo>3</grupo>
+    <imptot>1815.92</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="425123367-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1800001</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10475388</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Feliciana Estifania Chavez Yauri</cliente>
+    <idcuenta>425123367-1</idcuenta>
+    <diasmora>121</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1801.61</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="382580184-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1740498</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42003634</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Gabriel Grillo Avalos</cliente>
+    <idcuenta>382580184-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>1784.65</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428612709-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1796222</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09855335</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jose Pari Gil</cliente>
+    <idcuenta>428612709-1</idcuenta>
+    <diasmora>164</diasmora>
+    <grupo>3</grupo>
+    <imptot>1661.05</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="467049033-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1796159</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09328258</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Carlos Vicente Flores Moreno</cliente>
+    <idcuenta>467049033-1</idcuenta>
+    <diasmora>160</diasmora>
+    <grupo>3</grupo>
+    <imptot>1653.95</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443778434-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1796971</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09688924</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Virginia Fernandez Veneros</cliente>
+    <idcuenta>443778434-1</idcuenta>
+    <diasmora>154</diasmora>
+    <grupo>3</grupo>
+    <imptot>1604.60</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436353059-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1836649</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80270682</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Salvador Curiñaupa Ramirez</cliente>
+    <idcuenta>436353059-1</idcuenta>
+    <diasmora>120</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1542.12</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="386696380-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1739971</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40700072</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Alejandra Elizabeth Salas Sanchez</cliente>
+    <idcuenta>386696380-1</idcuenta>
+    <diasmora>155</diasmora>
+    <grupo>3</grupo>
+    <imptot>1542.01</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447563700-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1800700</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40828576</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rosario Mellisho Evaristo</cliente>
+    <idcuenta>447563700-1</idcuenta>
+    <diasmora>121</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1527.39</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="414813197-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1801327</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41001886</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maylin Violeta Estrada Verde</cliente>
+    <idcuenta>414813197-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1470.77</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436291592-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1830265</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>16658638</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Oscar Llontop Anaya</cliente>
+    <idcuenta>436291592-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>1405.03</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="377280739-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1793330</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>18030277</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Martin Alberto Reyes Alva</cliente>
+    <idcuenta>377280739-1</idcuenta>
+    <diasmora>112</diasmora>
+    <grupo>1</grupo>
+    <imptot>1396.86</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436305666-1">
+    <fec_ges_max>2011-10-15</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1797140</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>19867542</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Aquilino Jacob Ruiz De La Cruz</cliente>
+    <idcuenta>436305666-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>1381.02</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="421491140-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803597</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80290866</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Ana Bautista Prado</cliente>
+    <idcuenta>421491140-1</idcuenta>
+    <diasmora>159</diasmora>
+    <grupo>3</grupo>
+    <imptot>1380.96</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443762007-1">
+    <fec_ges_max>2011-10-15</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1797215</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>32643291</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Tarcila Maguiña Rojas</cliente>
+    <idcuenta>443762007-1</idcuenta>
+    <diasmora>155</diasmora>
+    <grupo>3</grupo>
+    <imptot>1365.24</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436354209-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1745191</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>04633366</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Carlos Torres Ale</cliente>
+    <idcuenta>436354209-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>1322.25</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428906800-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1796396</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40583148</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Santos Arellano Guillen</cliente>
+    <idcuenta>428906800-1</idcuenta>
+    <diasmora>163</diasmora>
+    <grupo>3</grupo>
+    <imptot>1288.20</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="454990900-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1841341</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08656507</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Edgar Cenizario Delgado</cliente>
+    <idcuenta>454990900-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1285.28</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458948780-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1843471</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43730025</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Karen Angulo Piro</cliente>
+    <idcuenta>458948780-1</idcuenta>
+    <diasmora>121</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1267.44</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443746613-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1830283</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00484060</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Miriam Choque Quispe</cliente>
+    <idcuenta>443746613-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>1257.72</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="459019899-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1826437</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41638523</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Arnold Alex Alvarez Vilca</cliente>
+    <idcuenta>459019899-1</idcuenta>
+    <diasmora>116</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1251.92</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458773069-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1738206</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>17636688</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Raul Pisfil Gonzales</cliente>
+    <idcuenta>458773069-1</idcuenta>
+    <diasmora>162</diasmora>
+    <grupo>3</grupo>
+    <imptot>1242.46</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="462957985-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1740538</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43365430</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maria Gomez Perez</cliente>
+    <idcuenta>462957985-1</idcuenta>
+    <diasmora>158</diasmora>
+    <grupo>3</grupo>
+    <imptot>1232.23</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458781134-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1738248</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>27044408</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Mariyas Diaz De Ocas Rosa Carmela</cliente>
+    <idcuenta>458781134-1</idcuenta>
+    <diasmora>162</diasmora>
+    <grupo>3</grupo>
+    <imptot>1224.75</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="462894010-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1797636</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43531596</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Fiorella Nathali Comena Huamani</cliente>
+    <idcuenta>462894010-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>1169.51</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443696934-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1843911</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80242896</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Ana Leon Severino</cliente>
+    <idcuenta>443696934-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1109.03</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458767670-1">
+    <fec_ges_max>2011-10-14</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1796536</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46237378</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Flor Huamani Valdez</cliente>
+    <idcuenta>458767670-1</idcuenta>
+    <diasmora>164</diasmora>
+    <grupo>3</grupo>
+    <imptot>1105.65</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458713228-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1810551</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00229485</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maria Rios Arca</cliente>
+    <idcuenta>458713228-1</idcuenta>
+    <diasmora>163</diasmora>
+    <grupo>3</grupo>
+    <imptot>1096.39</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432470140-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1841769</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00447917</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maque Zegarra Lourdes</cliente>
+    <idcuenta>432470140-1</idcuenta>
+    <diasmora>118</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1078.77</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436415909-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1801790</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42958625</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jose Luis Ramirez Valdez</cliente>
+    <idcuenta>436415909-1</idcuenta>
+    <diasmora>121</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1076.78</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="421798793-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1842348</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45917160</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>YAMUNAQUE TAPIA MARY FRANCISCA</cliente>
+    <idcuenta>421798793-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1066.56</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440003164-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1824588</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80532563</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Feijoo Silva Juan Carlos</cliente>
+    <idcuenta>440003164-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1064.11</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="467270384-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1745268</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43123955</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Aloiso Bringas Saldaña</cliente>
+    <idcuenta>467270384-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>1063.36</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443701628-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1798632</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09594021</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Eulogia Gladys Tamara Morales</cliente>
+    <idcuenta>443701628-1</idcuenta>
+    <diasmora>160</diasmora>
+    <grupo>3</grupo>
+    <imptot>1048.04</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436351196-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1842756</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43717537</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Felicita Pariansullca Sanchez</cliente>
+    <idcuenta>436351196-1</idcuenta>
+    <diasmora>120</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1031.57</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="411470329-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1799553</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09703424</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>JOHN CORDOVA CURLETTI</cliente>
+    <idcuenta>411470329-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>1015.30</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458890073-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1797849</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>32640295</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jose Camones Chavez</cliente>
+    <idcuenta>458890073-1</idcuenta>
+    <diasmora>154</diasmora>
+    <grupo>3</grupo>
+    <imptot>989.26</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458759643-1">
+    <fec_ges_max>2011-10-26</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1733581</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00240833</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Marcos Veliz Vicente</cliente>
+    <idcuenta>458759643-1</idcuenta>
+    <diasmora>164</diasmora>
+    <grupo>3</grupo>
+    <imptot>977.46</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="467069867-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1799640</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46032548</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RUTH VIOLETA CRUZ MORALES</cliente>
+    <idcuenta>467069867-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>940.51</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447468626-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1842942</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>25816342</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rosa Elvira Ramirez Cordova</cliente>
+    <idcuenta>447468626-1</idcuenta>
+    <diasmora>119</diasmora>
+    <grupo>1R</grupo>
+    <imptot>939.30</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="451575059-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1797880</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44586860</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jesus Garay Laguna</cliente>
+    <idcuenta>451575059-1</idcuenta>
+    <diasmora>154</diasmora>
+    <grupo>3</grupo>
+    <imptot>939.06</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="418180539-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1794258</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>16791902</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>WALTER GONZALES VARGAS</cliente>
+    <idcuenta>418180539-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>929.42</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="463011805-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1830299</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40197732</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>George Olivera Culqui</cliente>
+    <idcuenta>463011805-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>927.59</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="439837979-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803908</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08395701</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Silvia Mercedes Quispe Tume</cliente>
+    <idcuenta>439837979-1</idcuenta>
+    <diasmora>158</diasmora>
+    <grupo>3</grupo>
+    <imptot>922.48</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="388793082-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1738492</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>25731676</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Nelly Esther Cavero Toledo</cliente>
+    <idcuenta>388793082-1</idcuenta>
+    <diasmora>158</diasmora>
+    <grupo>3</grupo>
+    <imptot>920.89</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443702985-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803282</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>16530771</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Clara Vilchez Fuentes</cliente>
+    <idcuenta>443702985-1</idcuenta>
+    <diasmora>160</diasmora>
+    <grupo>3</grupo>
+    <imptot>919.08</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="463065794-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1825481</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>29601787</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Claudia Cecilia Torres Romero</cliente>
+    <idcuenta>463065794-1</idcuenta>
+    <diasmora>119</diasmora>
+    <grupo>1R</grupo>
+    <imptot>916.46</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="380786796-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1843100</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00487380</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>WALTER ANSELMO MAITA CARITA</cliente>
+    <idcuenta>380786796-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>901.96</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443748004-1">
+    <fec_ges_max>2011-10-06</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1848368</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47685219</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Carmen Facho Bances</cliente>
+    <idcuenta>443748004-1</idcuenta>
+    <diasmora>155</diasmora>
+    <grupo>3</grupo>
+    <imptot>877.49</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458770949-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1791822</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>20564524</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jesus Hernandez Alva</cliente>
+    <idcuenta>458770949-1</idcuenta>
+    <diasmora>163</diasmora>
+    <grupo>3</grupo>
+    <imptot>867.72</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="421431814-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1738154</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>16592607</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Agapito Effio Alejandro</cliente>
+    <idcuenta>421431814-1</idcuenta>
+    <diasmora>162</diasmora>
+    <grupo>3</grupo>
+    <imptot>859.71</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="451500423-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1810951</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00204380</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Carmen Maria Anton Quiroga</cliente>
+    <idcuenta>451500423-1</idcuenta>
+    <diasmora>160</diasmora>
+    <grupo>3</grupo>
+    <imptot>847.46</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432834567-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1738041</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44007461</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Malpartida Quirica David Enrique</cliente>
+    <idcuenta>432834567-1</idcuenta>
+    <diasmora>163</diasmora>
+    <grupo>3</grupo>
+    <imptot>843.15</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428775055-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1800290</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>15739631</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Julian Guzman Ramos</cliente>
+    <idcuenta>428775055-1</idcuenta>
+    <diasmora>119</diasmora>
+    <grupo>1R</grupo>
+    <imptot>836.58</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458765200-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1802752</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44982120</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Yemer Pari Lopez</cliente>
+    <idcuenta>458765200-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>830.57</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="451492609-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1798032</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10253888</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Victor Cubillas Vera Mucha</cliente>
+    <idcuenta>451492609-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>828.15</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428725210-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803017</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40157274</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Victor Antonio Crispin</cliente>
+    <idcuenta>428725210-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>823.96</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436329000-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1845882</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42900030</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Segundo Rojas Rojas</cliente>
+    <idcuenta>436329000-1</idcuenta>
+    <diasmora>121</diasmora>
+    <grupo>1R</grupo>
+    <imptot>811.77</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="471278483-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1800381</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>25524507</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Juana Marina Ccasani Gomez</cliente>
+    <idcuenta>471278483-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>802.96</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432446354-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1845995</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43788748</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Roberto Hidalgo Regalado</cliente>
+    <idcuenta>432446354-1</idcuenta>
+    <diasmora>121</diasmora>
+    <grupo>1R</grupo>
+    <imptot>799.46</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="425184455-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1800472</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>31677016</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Paulina Rosa Morales Cacha</cliente>
+    <idcuenta>425184455-1</idcuenta>
+    <diasmora>118</diasmora>
+    <grupo>1R</grupo>
+    <imptot>792.97</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458951633-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1800783</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42526932</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>William Velasquez Huallpacusi</cliente>
+    <idcuenta>458951633-1</idcuenta>
+    <diasmora>120</diasmora>
+    <grupo>1R</grupo>
+    <imptot>784.28</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443908184-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1800291</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>15739631</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Julian Guzman Ramos</cliente>
+    <idcuenta>443908184-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>784.22</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440022290-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1801171</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09585841</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Carmen Aurora Paz Alzamora</cliente>
+    <idcuenta>440022290-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>756.26</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="467146713-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1740777</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09128838</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maria Magdalena Arroyo Sosa</cliente>
+    <idcuenta>467146713-1</idcuenta>
+    <diasmora>154</diasmora>
+    <grupo>3</grupo>
+    <imptot>751.17</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428635776-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1811046</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44983065</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maria Diaz Arevalo</cliente>
+    <idcuenta>428635776-1</idcuenta>
+    <diasmora>161</diasmora>
+    <grupo>3</grupo>
+    <imptot>724.38</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="418180296-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1794022</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44814113</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Elizabeth Bonilla Pascual</cliente>
+    <idcuenta>418180296-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>720.78</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="402307054-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1790894</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>20034206</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Nilva Peña Almidon</cliente>
+    <idcuenta>402307054-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>715.11</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440135397-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1811106</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41779416</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Yessica Mogollon Palacios</cliente>
+    <idcuenta>440135397-1</idcuenta>
+    <diasmora>158</diasmora>
+    <grupo>3</grupo>
+    <imptot>712.45</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="393665909-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1837196</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>29704833</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Ana Peraltilla Nuñez</cliente>
+    <idcuenta>393665909-1</idcuenta>
+    <diasmora>109</diasmora>
+    <grupo>1</grupo>
+    <imptot>703.57</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="418218773-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1791250</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09724999</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Isidro Miguel Chuquicaña Chuquicaña</cliente>
+    <idcuenta>418218773-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>699.94</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="377264415-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1798533</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42026004</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Bravo Retuerto Brenda Yuliana</cliente>
+    <idcuenta>377264415-1</idcuenta>
+    <diasmora>128</diasmora>
+    <grupo>3</grupo>
+    <imptot>697.13</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="462966739-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1740045</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>33589699</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Robledo Abad Gladys Esperanza</cliente>
+    <idcuenta>462966739-1</idcuenta>
+    <diasmora>157</diasmora>
+    <grupo>3</grupo>
+    <imptot>696.20</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="454843038-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1824790</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00839046</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Emilio Del Aguila Borbor</cliente>
+    <idcuenta>454843038-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>695.88</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="459148257-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1791635</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43806125</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Godos Ruiz Elizabeth Miriam</cliente>
+    <idcuenta>459148257-1</idcuenta>
+    <diasmora>110</diasmora>
+    <grupo>1</grupo>
+    <imptot>687.98</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="421733560-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1801371</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>31617686</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Teodosia Chauca Garcia</cliente>
+    <idcuenta>421733560-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>672.59</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="414811500-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1791458</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00682879</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rolando Gallegos Mamani</cliente>
+    <idcuenta>414811500-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>667.66</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="363278760-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1801560</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07536024</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rafael Harster Aliaga</cliente>
+    <idcuenta>363278760-1</idcuenta>
+    <diasmora>112</diasmora>
+    <grupo>1</grupo>
+    <imptot>644.44</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="439827980-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803863</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41431163</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Wuilvir Carlos Condori Chipana</cliente>
+    <idcuenta>439827980-1</idcuenta>
+    <diasmora>160</diasmora>
+    <grupo>3</grupo>
+    <imptot>636.32</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="414562399-1">
+    <fec_ges_max>2011-10-12</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1740635</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>26690502</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maria Pisco Salazar</cliente>
+    <idcuenta>414562399-1</idcuenta>
+    <diasmora>158</diasmora>
+    <grupo>3</grupo>
+    <imptot>634.67</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436472414-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1801704</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08275954</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Benedicta Llamocca Jimenez</cliente>
+    <idcuenta>436472414-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>634.45</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="417994249-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1811173</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>32816057</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rosa Garcia Sanchez</cliente>
+    <idcuenta>417994249-1</idcuenta>
+    <diasmora>158</diasmora>
+    <grupo>3</grupo>
+    <imptot>625.51</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447814109-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1795108</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10098128</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Nancy Sancho Pampa</cliente>
+    <idcuenta>447814109-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>623.20</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="438598059-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1801104</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>16463692</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Juan Mena Perez</cliente>
+    <idcuenta>438598059-1</idcuenta>
+    <diasmora>162</diasmora>
+    <grupo>3</grupo>
+    <imptot>621.42</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="425074420-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1740029</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41487207</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Chucos Huaman Ana</cliente>
+    <idcuenta>425074420-1</idcuenta>
+    <diasmora>156</diasmora>
+    <grupo>3</grupo>
+    <imptot>618.14</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443846758-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1843845</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47842275</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Yovana Muñoz Hinga</cliente>
+    <idcuenta>443846758-1</idcuenta>
+    <diasmora>117</diasmora>
+    <grupo>1R</grupo>
+    <imptot>613.37</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="454856083-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1824221</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>02446408</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Bruno Murillo Aguilar</cliente>
+    <idcuenta>454856083-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>612.12</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="370209265-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1738593</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06554185</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Hector Raul Quinteros Sandoval</cliente>
+    <idcuenta>370209265-1</idcuenta>
+    <diasmora>157</diasmora>
+    <grupo>3</grupo>
+    <imptot>594.22</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428614884-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1811202</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>16595984</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Nelly Margarita Ramos</cliente>
+    <idcuenta>428614884-1</idcuenta>
+    <diasmora>164</diasmora>
+    <grupo>3</grupo>
+    <imptot>591.89</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="405167555-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1791418</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>16596247</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Elizabeth Gonzales </cliente>
+    <idcuenta>405167555-1</idcuenta>
+    <diasmora>110</diasmora>
+    <grupo>1</grupo>
+    <imptot>591.09</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="419573526-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1791759</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00447389</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Marlene Yovana Choque Calizaya</cliente>
+    <idcuenta>419573526-1</idcuenta>
+    <diasmora>106</diasmora>
+    <grupo>1</grupo>
+    <imptot>581.86</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="463022084-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803931</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>25662612</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Marisol Vasquez Fuentes</cliente>
+    <idcuenta>463022084-1</idcuenta>
+    <diasmora>123</diasmora>
+    <grupo>2</grupo>
+    <imptot>581.84</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432499547-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1826273</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>16441757</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Anibal Campos Cervera</cliente>
+    <idcuenta>432499547-1</idcuenta>
+    <diasmora>117</diasmora>
+    <grupo>1R</grupo>
+    <imptot>576.91</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447562886-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1824912</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>25139916</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Donato Enriquez Huillca</cliente>
+    <idcuenta>447562886-1</idcuenta>
+    <diasmora>121</diasmora>
+    <grupo>1R</grupo>
+    <imptot>574.01</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="439994837-1">
+    <fec_ges_max>2011-10-06</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1848359</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00225618</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Digna Dios Rosales</cliente>
+    <idcuenta>439994837-1</idcuenta>
+    <diasmora>123</diasmora>
+    <grupo>2</grupo>
+    <imptot>566.85</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432432400-1">
+    <fec_ges_max>2011-10-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1855343</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40926610</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Beatriz Sanchez Muñoz</cliente>
+    <idcuenta>432432400-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>555.11</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="421407018-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1744350</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>16807814</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Tania Lecca Vidaurre</cliente>
+    <idcuenta>421407018-1</idcuenta>
+    <diasmora>163</diasmora>
+    <grupo>3</grupo>
+    <imptot>539.69</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="463048130-1">
+    <fec_ges_max>2011-10-04</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1741851</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07597924</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maria Elena Eusebia Garcia Garcia</cliente>
+    <idcuenta>463048130-1</idcuenta>
+    <diasmora>110</diasmora>
+    <grupo>1</grupo>
+    <imptot>535.69</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="463234420-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1845077</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43527424</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Gregorio Santos Castro</cliente>
+    <idcuenta>463234420-1</idcuenta>
+    <diasmora>117</diasmora>
+    <grupo>1R</grupo>
+    <imptot>531.24</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="382754980-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1802062</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10381818</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Gamarra Gaytan Javierenrique</cliente>
+    <idcuenta>382754980-1</idcuenta>
+    <diasmora>112</diasmora>
+    <grupo>1</grupo>
+    <imptot>530.50</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="459033270-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1845161</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41169111</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Carlos Heribert Olivos Sanchez</cliente>
+    <idcuenta>459033270-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>529.85</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="455009643-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1802184</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06027760</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Segundo Valentin Chafloque Silva</cliente>
+    <idcuenta>455009643-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>527.61</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="467083916-1">
+    <fec_ges_max>2011-10-12</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1856108</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44009906</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Segundo Martinez Pachamango</cliente>
+    <idcuenta>467083916-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>520.01</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="454995090-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1802234</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08975817</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Adriana Fernandez Rodriguez</cliente>
+    <idcuenta>454995090-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>516.94</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458885258-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1740094</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>16683380</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Sandoval Perez Jorge Luis</cliente>
+    <idcuenta>458885258-1</idcuenta>
+    <diasmora>155</diasmora>
+    <grupo>3</grupo>
+    <imptot>503.65</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428636063-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1812613</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45282837</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PERALTA VENTURA ROCIO DEL PILAR</cliente>
+    <idcuenta>428636063-1</idcuenta>
+    <diasmora>161</diasmora>
+    <grupo>3</grupo>
+    <imptot>500.48</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="425305848-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1745024</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06883288</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Liliana Peña Camacho</cliente>
+    <idcuenta>425305848-1</idcuenta>
+    <diasmora>110</diasmora>
+    <grupo>1</grupo>
+    <imptot>471.46</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432354425-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1804017</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40087290</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Ketty Huaringa Chavez</cliente>
+    <idcuenta>432354425-1</idcuenta>
+    <diasmora>160</diasmora>
+    <grupo>3</grupo>
+    <imptot>470.07</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436325683-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1792328</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00500569</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Juana Choque Choque</cliente>
+    <idcuenta>436325683-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>465.03</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="467160996-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1802573</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07419461</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Walter Alfredo Delgado Juarez</cliente>
+    <idcuenta>467160996-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>463.18</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="467247625-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1792005</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00240858</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Ginelda Solis Castillo</cliente>
+    <idcuenta>467247625-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>452.91</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="463225163-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1845803</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41741648</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>LUIS ARMANDO SOPLAPUCO RUIZ</cliente>
+    <idcuenta>463225163-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>448.05</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458955078-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1805624</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42649184</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jhon Michel Blas Figueroa</cliente>
+    <idcuenta>458955078-1</idcuenta>
+    <diasmora>121</diasmora>
+    <grupo>1R</grupo>
+    <imptot>443.99</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="462958213-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1812799</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45330725</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Juliana Quispe Fraquita</cliente>
+    <idcuenta>462958213-1</idcuenta>
+    <diasmora>158</diasmora>
+    <grupo>3</grupo>
+    <imptot>437.91</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="455031169-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1802832</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41094956</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Elvida Cupertino Salvador</cliente>
+    <idcuenta>455031169-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>429.68</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440062780-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1741872</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41863759</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Karina Rosa Paico Lloclla</cliente>
+    <idcuenta>440062780-1</idcuenta>
+    <diasmora>117</diasmora>
+    <grupo>1R</grupo>
+    <imptot>426.28</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447577735-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1802971</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>15357540</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maria Gonzales Tello</cliente>
+    <idcuenta>447577735-1</idcuenta>
+    <diasmora>120</diasmora>
+    <grupo>1R</grupo>
+    <imptot>422.88</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="399085653-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1794382</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41593126</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Antonia Lanchipa Onofre</cliente>
+    <idcuenta>399085653-1</idcuenta>
+    <diasmora>116</diasmora>
+    <grupo>1R</grupo>
+    <imptot>422.01</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447490702-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803087</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09289853</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Mary Graciela Challco Cruz</cliente>
+    <idcuenta>447490702-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>418.36</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="454925069-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1845924</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42041675</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Hector Calderon Moran</cliente>
+    <idcuenta>454925069-1</idcuenta>
+    <diasmora>117</diasmora>
+    <grupo>1R</grupo>
+    <imptot>414.14</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436434946-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1792494</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80599420</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rosario Delgado Cotrina</cliente>
+    <idcuenta>436434946-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>407.77</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428767620-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803340</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41803165</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Arturo Fidel Manrique Urbano</cliente>
+    <idcuenta>428767620-1</idcuenta>
+    <diasmora>119</diasmora>
+    <grupo>1R</grupo>
+    <imptot>407.56</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428776957-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1846139</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>03211858</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Juana Alberca Pintado</cliente>
+    <idcuenta>428776957-1</idcuenta>
+    <diasmora>119</diasmora>
+    <grupo>1R</grupo>
+    <imptot>406.27</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="421803908-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803210</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44133165</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Andrea Del Carmen Alvarez Carranza</cliente>
+    <idcuenta>421803908-1</idcuenta>
+    <diasmora>118</diasmora>
+    <grupo>1R</grupo>
+    <imptot>404.38</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="404992153-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803360</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80151714</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Victor Pacpac Bautista</cliente>
+    <idcuenta>404992153-1</idcuenta>
+    <diasmora>117</diasmora>
+    <grupo>1R</grupo>
+    <imptot>393.90</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="454867905-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1846874</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40346624</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jenny Elizabeth Salazar Ramos</cliente>
+    <idcuenta>454867905-1</idcuenta>
+    <diasmora>121</diasmora>
+    <grupo>1R</grupo>
+    <imptot>393.25</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428754589-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1846873</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40346624</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jenny Elizabeth Salazar Ramos</cliente>
+    <idcuenta>428754589-1</idcuenta>
+    <diasmora>120</diasmora>
+    <grupo>1R</grupo>
+    <imptot>382.02</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="375581804-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803528</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07350248</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Lutgarda Morveli Centeno</cliente>
+    <idcuenta>375581804-1</idcuenta>
+    <diasmora>119</diasmora>
+    <grupo>1R</grupo>
+    <imptot>348.59</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="463092619-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1826465</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06877265</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Baselisa Palacios Barrientos</cliente>
+    <idcuenta>463092619-1</idcuenta>
+    <diasmora>118</diasmora>
+    <grupo>1R</grupo>
+    <imptot>347.38</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="364989190-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803714</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>25751385</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maruno Olivera Carlos Leonardo</cliente>
+    <idcuenta>364989190-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>337.66</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432380612-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1847536</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10018742</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Hildebrando Zelada Vasquez</cliente>
+    <idcuenta>432380612-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>334.54</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440090628-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803766</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10482473</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>JHONNY SUCASACA BARJA</cliente>
+    <idcuenta>440090628-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>334.32</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="467301638-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803807</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47956308</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maricruz Trejo Alberto</cliente>
+    <idcuenta>467301638-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>326.22</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443782962-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1805933</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41207942</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Ricardo Dextre Bonifacio</cliente>
+    <idcuenta>443782962-1</idcuenta>
+    <diasmora>122</diasmora>
+    <grupo>1R</grupo>
+    <imptot>307.49</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447634640-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803849</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10523829</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Vicenta Colqui Yalico</cliente>
+    <idcuenta>447634640-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>305.83</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="467266565-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1803979</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44857156</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Walter Obregon Toledo</cliente>
+    <idcuenta>467266565-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>298.30</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436529718-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1848164</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09583228</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Carlos Morante Chavez</cliente>
+    <idcuenta>436529718-1</idcuenta>
+    <diasmora>106</diasmora>
+    <grupo>1</grupo>
+    <imptot>296.01</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="471228338-1">
+    <fec_ges_max>2011-10-04</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1804233</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>19411740</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Lidia Carhuanira Ocaña</cliente>
+    <idcuenta>471228338-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>295.86</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="443818878-1">
+    <fec_ges_max>2011-10-04</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1804317</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42524084</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maria Saavedra Pajuelo</cliente>
+    <idcuenta>443818878-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>294.89</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="444109950-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1848303</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80240816</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>FLOR GARAY RICARDI</cliente>
+    <idcuenta>444109950-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>294.56</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458946280-1">
+    <fec_ges_max>2011-10-04</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1804371</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10513083</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Noelia Melina Gines Bravo</cliente>
+    <idcuenta>458946280-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>293.72</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="458962716-1">
+    <fec_ges_max>2011-10-10</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1804411</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45277478</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jaime Gilver Asencios Villadeza</cliente>
+    <idcuenta>458962716-1</idcuenta>
+    <diasmora>120</diasmora>
+    <grupo>1R</grupo>
+    <imptot>293.17</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="454839782-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1805985</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44101748</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Roxana Chavez Miranda</cliente>
+    <idcuenta>454839782-1</idcuenta>
+    <diasmora>123</diasmora>
+    <grupo>2</grupo>
+    <imptot>293.11</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428868045-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1792848</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43896052</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maria Diaz Silva</cliente>
+    <idcuenta>428868045-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>290.20</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="455080216-1">
+    <fec_ges_max>2011-10-12</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1746060</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>27045061</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rosario Araujo Caceres</cliente>
+    <idcuenta>455080216-1</idcuenta>
+    <diasmora>110</diasmora>
+    <grupo>1</grupo>
+    <imptot>288.74</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440085616-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1854877</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>17556025</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MORENO VILELA ROSARIO LORENZO</cliente>
+    <idcuenta>440085616-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>286.58</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="378880357-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1825350</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10276586</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Diaz Mori Amin</cliente>
+    <idcuenta>378880357-1</idcuenta>
+    <diasmora>120</diasmora>
+    <grupo>1R</grupo>
+    <imptot>285.44</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="399249575-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1792951</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06952103</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Bernardina Campos Valdivia</cliente>
+    <idcuenta>399249575-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>282.57</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="454866097-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1804956</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07933322</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Hipolito Durand Huaripata</cliente>
+    <idcuenta>454866097-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>281.65</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="467220263-1">
+    <fec_ges_max>2011-10-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1855575</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>17434330</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Dagoberto Temoche Castillo</cliente>
+    <idcuenta>467220263-1</idcuenta>
+    <diasmora>116</diasmora>
+    <grupo>1R</grupo>
+    <imptot>278.74</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440094593-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1805255</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>32039022</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Yenny Giraldo Obregon</cliente>
+    <idcuenta>440094593-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>278.24</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="471276618-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1800701</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40828576</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rosario Mellisho Evaristo</cliente>
+    <idcuenta>471276618-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>277.62</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440062390-1">
+    <fec_ges_max>2011-10-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1855745</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>16457998</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Felicita Sanchez Mondragon</cliente>
+    <idcuenta>440062390-1</idcuenta>
+    <diasmora>117</diasmora>
+    <grupo>1R</grupo>
+    <imptot>275.20</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432551344-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1805288</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06597730</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rosa Goicochea Barrena</cliente>
+    <idcuenta>432551344-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>266.25</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="425123260-1">
+    <fec_ges_max>2011-10-06</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1855904</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40140414</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Gladiz Iman Lopez</cliente>
+    <idcuenta>425123260-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>263.36</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440092540-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1805417</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>32037760</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Gladis Adriana Pajuelo Felipe</cliente>
+    <idcuenta>440092540-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>261.97</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="373750978-1">
+    <fec_ges_max>2011-10-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1856321</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>19822218</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Lozano Romero Elias Arturo</cliente>
+    <idcuenta>373750978-1</idcuenta>
+    <diasmora>112</diasmora>
+    <grupo>1</grupo>
+    <imptot>238.65</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447611917-1">
+    <fec_ges_max>2011-10-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1856539</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42123860</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rocio Custodio Palma</cliente>
+    <idcuenta>447611917-1</idcuenta>
+    <diasmora>119</diasmora>
+    <grupo>1R</grupo>
+    <imptot>238.34</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="404978452-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1805529</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>31633070</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Gladys Romero Correa</cliente>
+    <idcuenta>404978452-1</idcuenta>
+    <diasmora>110</diasmora>
+    <grupo>1</grupo>
+    <imptot>236.69</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432463445-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1825795</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>16721074</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Mestar De Knutzen Natalia Margarita</cliente>
+    <idcuenta>432463445-1</idcuenta>
+    <diasmora>119</diasmora>
+    <grupo>1R</grupo>
+    <imptot>234.89</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432575413-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1792616</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80641415</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Juan Carlos Bernal Ballena</cliente>
+    <idcuenta>432575413-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>233.23</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="467045658-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1805695</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43839148</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Alejandrina Farceque Tocto</cliente>
+    <idcuenta>467045658-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>227.03</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440144604-1">
+    <fec_ges_max>2011-10-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1856626</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46003475</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Yanina Bravo Mora</cliente>
+    <idcuenta>440144604-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>224.72</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="396337333-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1845546</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40204551</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Carlos Alcides Vela Jara</cliente>
+    <idcuenta>396337333-1</idcuenta>
+    <diasmora>107</diasmora>
+    <grupo>1</grupo>
+    <imptot>224.60</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="463211758-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1793085</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>05234512</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Sonia Felicidad Dominguez Mori</cliente>
+    <idcuenta>463211758-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>218.99</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432600736-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1744446</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40806993</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Victorio Vidal Tarazona</cliente>
+    <idcuenta>432600736-1</idcuenta>
+    <diasmora>110</diasmora>
+    <grupo>1</grupo>
+    <imptot>218.38</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="463249460-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1793138</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43184179</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maria Julca Gamonal</cliente>
+    <idcuenta>463249460-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>217.41</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="463131266-1">
+    <fec_ges_max>2011-10-06</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1856836</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80561866</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Gloria Moquillaza Martinez</cliente>
+    <idcuenta>463131266-1</idcuenta>
+    <diasmora>117</diasmora>
+    <grupo>1R</grupo>
+    <imptot>216.56</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="447812830-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1792915</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43465733</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>David Josue Maza Otero</cliente>
+    <idcuenta>447812830-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>209.99</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="467235392-1">
+    <fec_ges_max>2011-10-06</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1857033</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45002294</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Sara Atamain Paati</cliente>
+    <idcuenta>467235392-1</idcuenta>
+    <diasmora>116</diasmora>
+    <grupo>1R</grupo>
+    <imptot>206.43</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="421453290-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1802530</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>02556375</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Casilda Mamani Luque</cliente>
+    <idcuenta>421453290-1</idcuenta>
+    <diasmora>157</diasmora>
+    <grupo>3</grupo>
+    <imptot>183.17</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="459137760-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1805731</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09894514</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Luis Noriega Retto</cliente>
+    <idcuenta>459137760-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>181.42</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440108586-1">
+    <fec_ges_max>2011-10-18</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1825986</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44547716</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Erika Benites Calle</cliente>
+    <idcuenta>440108586-1</idcuenta>
+    <diasmora>118</diasmora>
+    <grupo>1R</grupo>
+    <imptot>175.74</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="471144584-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1805744</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>31619555</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Carmen Guadalupe Serruto Rios</cliente>
+    <idcuenta>471144584-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>174.23</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="471111228-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1805883</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>30583323</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Henry Alfredo Mamani Choque</cliente>
+    <idcuenta>471111228-1</idcuenta>
+    <diasmora>114</diasmora>
+    <grupo>1R</grupo>
+    <imptot>161.57</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="436479044-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1857204</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>21454495</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Freddy Ulisis Paitan Cahua</cliente>
+    <idcuenta>436479044-1</idcuenta>
+    <diasmora>106</diasmora>
+    <grupo>1</grupo>
+    <imptot>159.65</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="428873855-1">
+    <fec_ges_max>2011-10-19</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1793369</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>17606579</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Hilda Yolanda Saba Pacherres</cliente>
+    <idcuenta>428873855-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>157.96</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432602933-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1745211</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46653476</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Liliana Arevalo Garcia</cliente>
+    <idcuenta>432602933-1</idcuenta>
+    <diasmora>110</diasmora>
+    <grupo>1</grupo>
+    <imptot>156.71</imptot>
+    <ciclo>C</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="463246527-1">
+    <fec_ges_max>2011-10-17</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1793439</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>17527444</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Maritza Paredes Callirgos</cliente>
+    <idcuenta>463246527-1</idcuenta>
+    <diasmora>111</diasmora>
+    <grupo>1</grupo>
+    <imptot>155.57</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="470962100-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1805949</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>32983659</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Jhonny Richard Velezmoro Cabrera</cliente>
+    <idcuenta>470962100-1</idcuenta>
+    <diasmora>112</diasmora>
+    <grupo>1</grupo>
+    <imptot>152.96</imptot>
+    <ciclo>N</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="432668187-1">
+    <fec_ges_max>2011-10-06</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1857517</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>00255048</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Erlis Zarate Crespo</cliente>
+    <idcuenta>432668187-1</idcuenta>
+    <diasmora>115</diasmora>
+    <grupo>1R</grupo>
+    <imptot>150.44</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="440038472-1">
+    <fec_ges_max>2011-10-20</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>11</periodo>
+    <ano>2011</ano>
+    <mes>10</mes>
+    <idgestion>1857670</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80555069</idcliente>
+    <proveedor>Banco Financiero</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rosario Lopez Gomez</cliente>
+    <idcuenta>440038472-1</idcuenta>
+    <diasmora>120</diasmora>
+    <grupo>1R</grupo>
+    <imptot>146.61</imptot>
+    <ciclo>I</ciclo>
+    <idestado>1</idestado>
+  </fila>
+</cuentas>

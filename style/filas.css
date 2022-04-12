@@ -1,0 +1,238 @@
+/*     27/07/2006     **/
+/*----- Tabla cuentas -----*/
+h6 {
+	font-size:11px;
+	font-weight:bold;
+	color:#27688F;
+	background-color:#CDE9F5;
+	padding:3px 0 3px 20px;
+	letter-spacing:0.08em;
+	border-top:2px solid #C2DCEF;
+	border-left:1px solid #C2DCEF;
+	border-right:1px solid #C2DCEF;
+	border-bottom: 1px solid #C2DCEF; 
+	text-align:left;
+	display:block;
+	width:100%;
+	position:relative;
+	}
+#tabla_cuentas {
+	margin:0;
+	padding:0;
+	border-collapse:collapse;
+	}
+#tabla_cuentas caption {
+	font-size:11px;
+	font-weight:bold;
+	color:#191970;
+	background-color:#C0C0C0;/*#CDE9F5*/
+	padding:3px 0 3px 20px;
+	letter-spacing:0.08em;
+	border-top:1px solid #A9A9A9;/*#C2DCEF*/
+	border-left:1px solid #A9A9A9;
+	border-right:1px solid #A9A9A9;
+	border-bottom: 1px solid #A9A9A9; 
+	text-align:left;
+	}
+#tabla_cuentas thead th {
+	color:#808080; 
+	font-size: 11px; 
+	border-bottom: 1px solid #A9A9A9; 
+	border-right:1px solid #A9A9A9;
+	padding-top: 5px; 
+	padding-bottom: 5px;
+	padding-left:4px;
+	padding-right:4px;
+	}	
+#tabla_cuentas tbody td{
+	border-bottom: 1px solid #F1F7FA;
+	border-right:1px solid #A9A9A9;
+	font-size: 11px; 
+	padding-left: 5px;
+	padding-top:2px;
+	padding-bottom:2px;
+	color:#000000;
+	}
+.tabla_listado thead{
+	white-space:nowrap;
+}
+.tabla_listado table tbody tr td .nobr{
+	white-space:nowrap;
+	vertical-align:top;
+}
+.tabla_listado tbody {
+	white-space:nowrap;
+	vertical-align:top;
+}
+.tabla_listado .numeros{	
+	text-align:right;
+	padding-right:2px;
+	}
+	
+/*----- Tabla -----*/
+#tabla_cuentas_detalle {
+	border-collapse:collapse;
+	}
+
+#tabla_cuentas_detalle caption {
+	font-size:11px;
+	font-weight:bold;
+	color:#191970;/*#008CBB;*/
+	background-color: #C0C0C0;
+	padding:3px 0 3px 20px;
+	letter-spacing:0.08em;
+	border-top:1px solid #A9A9A9;
+	border-left:1px solid #A9A9A9;
+	border-right:1px solid #A9A9A9;
+	border-bottom: 1px solid #A9A9A9;
+	text-align:left;
+	}
+
+#tabla_cuentas_detalle thead th {
+	color:#8DC1E0;
+	font-size: 11px; 
+	border-bottom: 1px solid #06C1FF; 
+	border-right:1px solid #A9A9A9;
+	padding-top: 5px; 
+	padding-bottom: 5px;
+	padding-left:4px; 
+	text-align:left;
+	}
+#tabla_cuentas_detalle tbody td {
+	border-bottom: 1px solid #CDE9F5;
+	/*border-bottom: 1px solid #ADCCE4;*/ 
+	font-size: 11px; 
+	padding-left: 5px;
+	padding-top:2px;
+	padding-bottom:2px;
+	}
+
+#tabla_gestiones_call {
+	border-collapse:collapse;
+	}
+
+#tabla_gestiones_call caption {
+	font-size:11px;
+	font-weight:bold;
+	color:#191970;/*#008CBB;*/
+	background-color: #F4FAFD;
+	padding:3px 0 3px 20px;
+	letter-spacing:0.08em;
+	border-top:2px solid #D8E9F5;
+	border-left:1px solid #D8E9F5;
+	border-right:1px solid #D8E9F5;
+	border-bottom: 1px solid #D8E9F5;
+	text-align:left;
+	}
+
+#tabla_gestiones_call thead th {
+	color:#696969;
+	font-size: 11px; 
+	border-bottom: 1px solid #A9A9A9; 
+	/*border-right:1px solid #A9A9A9;*/
+	border-top:1px solid #A9A9A9;
+	padding-top: 5px; 
+	padding-bottom: 5px;
+	padding-left:4px; 
+	text-align:left;
+	}
+#tabla_gestiones_call tbody td {
+	border-bottom: 1px solid #DCDCDC;
+	/*border-bottom: 1px solid #ADCCE4;*/ 
+	font-size: 11px; 
+	padding-left: 5px;
+	padding-top:2px;
+	padding-bottom:2px;
+	}
+	
+#tabla_gestiones_call tbody tr {
+	background-color: #9EDBDB;	
+	}
+
+#tabla_gestiones_campo {
+	border-collapse:collapse;
+	}
+
+#tabla_gestiones_campo caption {
+	font-size:11px;
+	font-weight:bold;
+	color:#191970;/*#008CBB;*/
+	background-color: #C0C0C0;
+	padding:3px 0 3px 20px;
+	letter-spacing:0.08em;
+	border-top:2px solid #D8E9F5;
+	border-left:1px solid #D8E9F5;
+	border-right:1px solid #D8E9F5;
+	border-bottom: 1px solid #D8E9F5;
+	text-align:left;
+	}
+
+#tabla_gestiones_campo thead th {
+	color:#8DC1E0;
+	font-size: 11px; 
+	border-bottom: 1px solid #06C1FF; 
+	border-right:1px solid #A9A9A9;
+	padding-top: 5px; 
+	padding-bottom: 5px;
+	padding-left:4px; 
+	text-align:left;
+	}
+#tabla_gestiones_campo tbody td {
+	border-bottom: 1px solid #CDE9F5;
+	/*border-bottom: 1px solid #ADCCE4;*/ 
+	font-size: 11px; 
+	padding-left: 5px;
+	padding-top:2px;
+	padding-bottom:2px;
+	}
+
+#tabla_pagos {
+	border-collapse:collapse;
+}
+#tabla_pagos caption {
+	font-size:11px;
+	font-weight:bold;
+	color:#191970;/*#008CBB;*/
+	background-color: #C0C0C0;
+	padding:3px 0 3px 20px;
+	letter-spacing:0.08em;
+	border-top:1px solid #A9A9A9;
+	border-left:1px solid #A9A9A9;
+	border-right:1px solid #A9A9A9;
+	border-bottom: 1px solid #A9A9A9;
+	text-align:left;
+	}
+#tabla_pagos thead th {
+	color:#808080;
+	font-size: 11px; 
+	border-bottom: 1px solid #A9A9A9; 
+	border-right:1px solid #A9A9A9;
+	padding-top: 5px; 
+	padding-bottom: 5px;
+	padding-left:4px; 
+	text-align:left;
+	}
+#tabla_pagos tbody td {
+	border-bottom: 1px solid #CDE9F5;
+	font-size: 11px; 
+	padding-left: 5px;
+	padding-top:2px;
+	padding-bottom:2px;
+	}	
+	
+/**Estilos para los eventos Hover, Click y Sombreado de las celdas **/	
+/*hover de tabla cuentas*/	
+tr.row_highlight {
+    background-color:#B6D0E7;  /*#B8CDDC;*/
+    cursor           : pointer;
+}
+
+.selected {
+    background :#eca;
+}
+/*Seleccionados celdas gestiones*/
+tr.row_click {
+    background-color:#F9F3D0;/*#5593CE;*/
+    cursor           : pointer;
+}
+tr.row_click td {border-bottom: 1px solid #3285B6;}

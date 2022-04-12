@@ -1,0 +1,4221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cuentas>
+  <fila id="0006155271-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15801515</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10053094</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MARIANO VIZCONDE WILLIAMS ADOLFO</cliente>
+    <idcuenta>0006155271-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>2413.71</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006032199-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15789175</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08169908</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PAZ MELGAREJO JUAN CARLOS</cliente>
+    <idcuenta>0006032199-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1868.00</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006262498-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15790741</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40478884</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ALCA QUISPE JOHN STARLY</cliente>
+    <idcuenta>0006262498-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1840.21</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006262934-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15790769</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06196186</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ARANDA CABANILLAS RAFAEL JORGE</cliente>
+    <idcuenta>0006262934-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>1817.49</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155443-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15790804</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43210513</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ZAMUDIO ESPINOZA GIULIANA SOLEDAD</cliente>
+    <idcuenta>0006155443-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1696.11</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006262609-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15790840</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40444799</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RAMOS CARDICH ROBERTO CARLOS</cliente>
+    <idcuenta>0006262609-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1649.59</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263288-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15790893</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47386682</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>LOPEZ BORJA WENDY TIRZA</cliente>
+    <idcuenta>0006263288-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>2</grupo>
+    <imptot>1639.40</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006032227-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15801931</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>05338628</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Tavares Quintana David</cliente>
+    <idcuenta>0006032227-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1631.07</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006344893-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15801948</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41333077</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>DURAN FLORES FRANK DAVID</cliente>
+    <idcuenta>0006344893-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>2</grupo>
+    <imptot>1561.22</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345817-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15790955</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06804502</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>SALAZAR CUENCA GIOVANNI</cliente>
+    <idcuenta>0006345817-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1543.15</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006032025-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15791041</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>15636340</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CHAVEZ VILLARREAL MARCOS BENITO</cliente>
+    <idcuenta>0006032025-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>1501.94</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006387800-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15801970</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08621070</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ORTIZ CHUY GLADYS HORTENCIA</cliente>
+    <idcuenta>0006387800-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1453.69</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263324-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15793081</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10055982</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CANALES MENDEZ OSCAR ALFREDO</cliente>
+    <idcuenta>0006263324-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>2</grupo>
+    <imptot>1443.57</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194559-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15802033</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45101441</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>TINTAYA AVENDAÑO JUDITH</cliente>
+    <idcuenta>0006194559-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1436.62</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455613-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15793102</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40855658</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>SIERRA YUPANQUI LUIS ERICK</cliente>
+    <idcuenta>0006455613-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>1391.39</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388314-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15802098</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46058603</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CHAVEZ JUAREZ JOSSIMAR ARTURO</cliente>
+    <idcuenta>0006388314-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>4</grupo>
+    <imptot>1292.20</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006346018-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15793663</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42236058</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>VICENTE SANCHEZ ENRIQUE OLIVER</cliente>
+    <idcuenta>0006346018-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1288.03</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006389162-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15802289</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41783556</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ALCANTARA RIVERA JIMMY CESAR</cliente>
+    <idcuenta>0006389162-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1226.44</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155293-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15793876</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80236554</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CARMONA PLASENCIA JOSE CARLOS</cliente>
+    <idcuenta>0006155293-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>2</grupo>
+    <imptot>1225.97</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006032166-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15776621</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40134051</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CORDOVA GUERRERO ONOFRE</cliente>
+    <idcuenta>0006032166-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1214.96</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194954-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15811234</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46395386</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>TTITO HURTADO JOSE OSCAR</cliente>
+    <idcuenta>0006194954-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1196.65</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345960-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15778018</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46076293</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>LOPEZ POMA ALYSSA YOLANDA</cliente>
+    <idcuenta>0006345960-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1119.88</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194915-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15778160</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42698450</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ZEGARRA OSORIO DORIS CONSUELO</cliente>
+    <idcuenta>0006194915-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>1109.50</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345795-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15813248</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41396626</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Bustinza Ventura Eleazar Estonid</cliente>
+    <idcuenta>0006345795-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1096.23</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263379-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15813435</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41352898</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PISCOYA LLONTOP GINA VICTORIA</cliente>
+    <idcuenta>0006263379-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1093.94</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263401-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15778217</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44044665</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>HUAYAVA OCHAVANO JACKSON</cliente>
+    <idcuenta>0006263401-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1087.91</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194519-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15813480</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44920242</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>QUISPE VILLANUEVA LUIS ALBERTO</cliente>
+    <idcuenta>0006194519-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>1084.20</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155227-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15813502</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10060989</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>LOPEZ PINEDO LEONCIO DAVID</cliente>
+    <idcuenta>0006155227-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>1073.96</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006262500-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15813573</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44461352</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>TORRES SAAVEDRA SEGUNDO ERGASTO</cliente>
+    <idcuenta>0006262500-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1054.18</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455310-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15813709</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>29568721</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>DELGADO RONDON JOSELITO FREDY</cliente>
+    <idcuenta>0006455310-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>1050.94</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006154251-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15778354</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10539352</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BECERRA APARCANA FREDY GUILLERM</cliente>
+    <idcuenta>0006154251-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1036.93</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155497-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15794992</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>71258266</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ESPINOZA NAVARRO SEGUNDO JUNIOR</cliente>
+    <idcuenta>0006155497-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1019.26</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194179-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15813765</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09478533</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PANTA CABRERO OTILIA ALEJANDRINA</cliente>
+    <idcuenta>0006194179-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1013.29</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194818-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15813785</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>25560966</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RODRIGUEZ RIOS MIGUEL JOSE</cliente>
+    <idcuenta>0006194818-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>1010.36</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455366-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15796304</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08167669</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Arevalo Marin Delia Guisell</cliente>
+    <idcuenta>0006455366-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>994.99</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194654-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15796347</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08680080</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MALDONADO GARCIA KATIA MARIELA</cliente>
+    <idcuenta>0006194654-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>989.56</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388962-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15796376</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09022148</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>LOPEZ PACHECO DE RAMOS SOLEDAD</cliente>
+    <idcuenta>0006388962-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>972.92</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456750-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15814226</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42575037</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>LOJA ZUMBA FLOR DE MARIA</cliente>
+    <idcuenta>0006456750-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>959.20</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345142-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15778463</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09586946</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PEREZ LAVERIANO MANUEL TORIBIO</cliente>
+    <idcuenta>0006345142-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>953.49</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455791-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15796573</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80422325</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>NEYRA MONTES ALVARO ALEX</cliente>
+    <idcuenta>0006455791-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>931.06</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194566-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15796817</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40773955</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BAZAN CORDOVA CHRISTIAN REYNALDO</cliente>
+    <idcuenta>0006194566-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>925.02</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006032113-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15814266</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45099006</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MUÑANTE MEDINA JHONNY JESUS A</cliente>
+    <idcuenta>0006032113-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>921.25</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455561-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15797003</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47582891</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>LLAMOCCA PERFECTO ERICK LEONARDO</cliente>
+    <idcuenta>0006455561-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>920.68</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456071-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15797086</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42957748</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>TERRAZAS BENAVIDES CLAUDIA KARINA</cliente>
+    <idcuenta>0006456071-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>915.00</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006154374-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15797104</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08611192</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Lizarraga Garay Edwin Roberto</cliente>
+    <idcuenta>0006154374-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>904.38</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194323-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15797156</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45162017</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ZARATE CASTILLO KEYLA JOHANA</cliente>
+    <idcuenta>0006194323-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>893.79</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194775-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15797186</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80651219</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MALDONADO MORANTE JAVIER JOHN</cliente>
+    <idcuenta>0006194775-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>890.64</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345682-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15797263</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40761360</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>TORRES SALCEDO LUDECINO ELMER</cliente>
+    <idcuenta>0006345682-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>885.21</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006262519-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15814430</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44964296</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ORIHUELA SINCHE JOSE LUIS</cliente>
+    <idcuenta>0006262519-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>877.86</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006344848-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15797866</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43032587</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>SALVADOR RIQUE JACQUELINE</cliente>
+    <idcuenta>0006344848-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>873.40</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388232-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15778653</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47681169</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>FASABI ALVAREZ EILER</cliente>
+    <idcuenta>0006388232-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>872.46</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155516-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15798009</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41825721</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CHUQUICHAICO HERRERA ESTEBAN ERIK</cliente>
+    <idcuenta>0006155516-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>846.63</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345734-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15815280</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07303911</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ORE GARCIA HERMINIO</cliente>
+    <idcuenta>0006345734-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>833.84</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388414-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15798091</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47313649</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>VALDIVIEZO CALDERON CARLOS JOEL</cliente>
+    <idcuenta>0006388414-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>829.41</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388007-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15798066</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43693692</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CASTILLO RENTERIA TEOLINDA</cliente>
+    <idcuenta>0006388007-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>826.75</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006032211-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15815431</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46288674</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RUIZ FLORES MILAGROS ISABEL</cliente>
+    <idcuenta>0006032211-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>821.57</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006031786-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15798146</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42764730</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>SALINAS DOMINGUEZ SANDRA LIDIA</cliente>
+    <idcuenta>0006031786-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>811.48</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155130-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15816863</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46008300</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>DUEÑAS PALOMINO SHIRLEY KIRSA</cliente>
+    <idcuenta>0006155130-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>810.08</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006031902-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15776512</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07255104</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ALEJO VILA ANTONIO ERNEST</cliente>
+    <idcuenta>0006031902-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>2</grupo>
+    <imptot>795.31</imptot>
+    <ciclo>90pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006032177-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15779261</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>19328513</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CONTRERAS URBINA JOSE JAVIER</cliente>
+    <idcuenta>0006032177-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>792.14</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456857-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15816922</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40112730</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>REYES LOPEZ ALEJANDRO MANUEL</cliente>
+    <idcuenta>0006456857-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>778.17</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388673-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15816984</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44763153</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>VASQUEZ TAMANI RICHARD ROBERT</cliente>
+    <idcuenta>0006388673-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>777.22</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194579-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15799165</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42408328</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MOGOLLON ORTEGA YORGELINA</cliente>
+    <idcuenta>0006194579-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>765.74</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456461-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15817020</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43740665</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MERA OYARCE SEGUNDO MARTIN</cliente>
+    <idcuenta>0006456461-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>4</grupo>
+    <imptot>763.04</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345328-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15799226</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42222881</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Andia Munoz Vanessa Sara</cliente>
+    <idcuenta>0006345328-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>758.31</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006389165-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15817441</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10407095</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>LOZADA DOMINGUEZ JOSE</cliente>
+    <idcuenta>0006389165-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>752.46</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006262680-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15799267</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42521438</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>URQUIAGA FLORES ALFREDO</cliente>
+    <idcuenta>0006262680-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>752.10</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388865-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15799291</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40341376</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PISCOYA SOSA JORGE LUIS</cliente>
+    <idcuenta>0006388865-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>4</grupo>
+    <imptot>748.64</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455683-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15799321</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45990579</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MEDINA MACO EDGAR</cliente>
+    <idcuenta>0006455683-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>743.39</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263538-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15817680</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46900841</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>SAMANIEGO ORELLANA ANDERSON</cliente>
+    <idcuenta>0006263538-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>740.71</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006262723-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15817731</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43859092</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>QUISPE SAN MIGUEL WALTER ALFREDO</cliente>
+    <idcuenta>0006262723-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>740.18</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345179-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15817771</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46507720</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>LIÑAN ZEGARRA KATHIUSKA ELENA</cliente>
+    <idcuenta>0006345179-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>4</grupo>
+    <imptot>737.83</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194373-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15817798</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07988936</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RAMIREZ DOMINGUEZ PABLO</cliente>
+    <idcuenta>0006194373-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>735.93</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194849-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15817843</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45313554</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CORDOVA CARRASCO SINDY PAOLA</cliente>
+    <idcuenta>0006194849-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>734.32</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006344982-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15817876</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08047175</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>QUEZADA TAVARA LUCY NELLY</cliente>
+    <idcuenta>0006344982-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>733.87</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155076-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15817926</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46487607</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ARROYO MUNOZ JHONATAN KADUT</cliente>
+    <idcuenta>0006155076-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>733.34</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455259-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15818107</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45682917</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CALDERON VELASQUEZ ERICK JOEL</cliente>
+    <idcuenta>0006455259-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>720.61</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345495-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15800768</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>71951059</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>FARFAN TORRES KAREN THAIS</cliente>
+    <idcuenta>0006345495-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>712.85</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456775-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15818165</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45653244</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CHUQUILIN SANCHEZ JONNATAN JOHN</cliente>
+    <idcuenta>0006456775-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>711.02</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388094-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15818439</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44914125</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RIOFRO SERRATO FREDDY</cliente>
+    <idcuenta>0006388094-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>703.49</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388049-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15818465</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44913771</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>TORRES BRICEÑO RONALD</cliente>
+    <idcuenta>0006388049-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>700.94</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006262789-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15800832</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44156998</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Saravia Ortega Ronald Patrick</cliente>
+    <idcuenta>0006262789-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>699.48</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006389108-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15818574</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47007255</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PANDURO VERASTEGUI JORGE FRANK</cliente>
+    <idcuenta>0006389108-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>693.91</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345944-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15818671</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09467581</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>DIONISIO CALDERON CLEVER</cliente>
+    <idcuenta>0006345944-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>689.61</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388477-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15818811</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45629031</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ZUÑIGA CHAVEZ FRANCISCO ALBERTO</cliente>
+    <idcuenta>0006388477-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>681.72</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345195-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15800846</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42764770</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>SALVATIERRA CORDOVA ANYELOD ANDRES</cliente>
+    <idcuenta>0006345195-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>679.82</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455729-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15818840</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40977251</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BARZOLA ROSILLO MARTIN OSWALDO</cliente>
+    <idcuenta>0006455729-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>679.42</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345468-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15818911</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47357787</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>GUERRERO VALDERRAMA NATHALY KATIUSKA</cliente>
+    <idcuenta>0006345468-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>677.32</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456654-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15818967</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43104357</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MORON ARONES JOEL ENRIQUE</cliente>
+    <idcuenta>0006456654-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>670.76</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006389183-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15819427</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>73961572</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ANGULO PIZANGO ANDRES</cliente>
+    <idcuenta>0006389183-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>665.59</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345669-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15819474</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07274905</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CORONADO VENTURA MARCELINA JULIA</cliente>
+    <idcuenta>0006345669-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>661.41</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456085-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15819514</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45042859</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PISCOYA SECLEN ERICK JHOANN LEONARDO</cliente>
+    <idcuenta>0006456085-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>659.92</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455653-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15819547</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46377246</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CONDORI PORTILLO PAULA ESTEFANY</cliente>
+    <idcuenta>0006455653-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>658.95</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345063-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15819655</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80420455</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>VALVERDE ROSALES JAVIER ARTURO</cliente>
+    <idcuenta>0006345063-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>657.74</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456679-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15819737</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>74084966</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BARDALES SORIANO SOLANGE PATRICIA</cliente>
+    <idcuenta>0006456679-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>651.04</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263064-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15819839</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47189065</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>SINACAYSIVA MORI TREYSI LETICIA</cliente>
+    <idcuenta>0006263064-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>647.57</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345295-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15821144</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80210937</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>VILLALOBOS PADILLA LUIS ALFREDO</cliente>
+    <idcuenta>0006345295-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>630.81</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155375-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15800926</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>22288099</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>HERNANDEZ MUÑANTE CARMEN MICAELA</cliente>
+    <idcuenta>0006155375-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>627.76</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006262578-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15776558</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09422695</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>QUISPE BEJAR HUGO WASHINGTON</cliente>
+    <idcuenta>0006262578-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>2</grupo>
+    <imptot>625.09</imptot>
+    <ciclo>90pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455499-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15821721</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42672033</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>TORRES GOMEZ ALAN RAUL</cliente>
+    <idcuenta>0006455499-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>606.72</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456845-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15800951</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>71094295</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>GODOS CORDOVA TELESFORO</cliente>
+    <idcuenta>0006456845-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>605.07</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388618-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15822916</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45021441</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ARRIETA CORTEZ SONIA TANIA</cliente>
+    <idcuenta>0006388618-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>588.18</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006154747-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15822958</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46735552</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CABEZAS VILLAFUERTE MARCOS RAUL</cliente>
+    <idcuenta>0006154747-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>585.57</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388832-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15823004</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45873448</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MERA MERA LUIS ANGEL</cliente>
+    <idcuenta>0006388832-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>584.34</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388375-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15823236</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>03648261</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Requena Yamunaque Wilfredo</cliente>
+    <idcuenta>0006388375-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>580.95</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345789-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15823450</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40669899</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ALBERTO MENACHO CARLOS TOMAS</cliente>
+    <idcuenta>0006345789-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>576.80</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456536-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15786369</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>71137400</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CAMPOS OSTOS ANGIE SHIRLEY RUBY</cliente>
+    <idcuenta>0006456536-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>575.07</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456523-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15823480</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41500279</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>TRILLO BERNABE RAMON WILLAM</cliente>
+    <idcuenta>0006456523-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>574.34</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345849-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15823698</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47409719</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>TAMINCHI CARIHUAZAIRO VICENTE</cliente>
+    <idcuenta>0006345849-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>564.23</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456829-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15786705</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41902853</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>TACZA VERASTEGUI MARISELA</cliente>
+    <idcuenta>0006456829-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>563.06</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456328-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15823742</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47449075</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>APAZA CAMPOS YASMIN CIBELI</cliente>
+    <idcuenta>0006456328-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>563.05</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006262594-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15824048</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10405106</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CARDENAS ORTIZ JOSE LUIS</cliente>
+    <idcuenta>0006262594-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>562.98</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456777-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15786802</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10749556</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>FLORES REYNOSO JUAN CARLOS</cliente>
+    <idcuenta>0006456777-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>562.92</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006154566-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15801365</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40301970</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>WIES LLONTOP LOYER DUHAN</cliente>
+    <idcuenta>0006154566-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>562.57</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456311-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15786933</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40936796</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>QUIJAITE EURIBE ROBERT JOHN</cliente>
+    <idcuenta>0006456311-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>562.21</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006389091-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15824214</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>70755749</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>HUAMANI CALDERON JUAN KELY</cliente>
+    <idcuenta>0006389091-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>560.29</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194491-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15824796</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46610773</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CORDOVA CASTILLO DANIEL ALCIDES</cliente>
+    <idcuenta>0006194491-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>557.37</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456661-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15801449</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43718662</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>VELITA RANILLA MANUEL</cliente>
+    <idcuenta>0006456661-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>556.26</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194781-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15824831</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10167810</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Espiritu Callupe Nelly Yolanda</cliente>
+    <idcuenta>0006194781-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>550.60</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263140-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>16129297</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80570419</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BALDEON QUISPE LUIS ALBERTO</cliente>
+    <idcuenta>0006263140-1</idcuenta>
+    <diasmora>65</diasmora>
+    <grupo>2</grupo>
+    <imptot>547.51</imptot>
+    <ciclo>60pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456067-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15825280</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46089329</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MAURICIO GONZALES LUIS ANTONIO</cliente>
+    <idcuenta>0006456067-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>545.04</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388045-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15825320</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46400036</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>SAAVEDRA NUNURA DANIEL MARCELINO</cliente>
+    <idcuenta>0006388045-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>544.71</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455450-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15825346</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42679714</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ALEGRE CORZO CARLOS GAUDENCIO</cliente>
+    <idcuenta>0006455450-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>544.10</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155087-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15801477</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43179489</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CASTRO GONZALES EMERSON FREDY</cliente>
+    <idcuenta>0006155087-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>543.97</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155372-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15776613</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80094820</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PALOMINO CANDELA FRANCISCO</cliente>
+    <idcuenta>0006155372-1</idcuenta>
+    <diasmora>34</diasmora>
+    <grupo>2</grupo>
+    <imptot>542.35</imptot>
+    <ciclo>30pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194648-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15801500</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09194574</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RAMIREZ VASQUEZ JORGE</cliente>
+    <idcuenta>0006194648-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>540.05</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006031730-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15787222</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80423283</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>AYALA DURAND JOSEALEX</cliente>
+    <idcuenta>0006031730-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>2</grupo>
+    <imptot>539.69</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006387862-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15825440</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44549365</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>OLIVOS CARLOS ROBERTO</cliente>
+    <idcuenta>0006387862-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>528.31</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006031930-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>16129341</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10205920</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BANCAYAN CERNA LUZ MARITZA</cliente>
+    <idcuenta>0006031930-1</idcuenta>
+    <diasmora>65</diasmora>
+    <grupo>2</grupo>
+    <imptot>528.18</imptot>
+    <ciclo>60pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006387827-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15825533</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43705334</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PIELAGO INFANTES MIGUEL ANGEL</cliente>
+    <idcuenta>0006387827-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>527.62</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194175-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15825582</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43791136</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>DE LA CRUZ VILLA PABLO ANTONIO</cliente>
+    <idcuenta>0006194175-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>527.09</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388630-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15825661</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44672451</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>FASANANDO PINCHI DAN LUIS</cliente>
+    <idcuenta>0006388630-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>526.05</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006262647-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>16129858</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47386518</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>TIRADO TABARA GERALDINE</cliente>
+    <idcuenta>0006262647-1</idcuenta>
+    <diasmora>65</diasmora>
+    <grupo>2</grupo>
+    <imptot>525.03</imptot>
+    <ciclo>60pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456562-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15825875</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41315979</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BENITES UZURIAGA JOSE MANUEL</cliente>
+    <idcuenta>0006456562-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>521.77</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194999-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15825969</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06177758</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ALATRISTA HUIDORO EDGAR ALBERTO</cliente>
+    <idcuenta>0006194999-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>515.09</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263350-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15787458</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40914120</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>TRINIDAD AGUILAR IVAN EDISON</cliente>
+    <idcuenta>0006263350-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>513.94</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345318-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15826049</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46164185</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ORE CANCHAYA LUIS MIGUEL</cliente>
+    <idcuenta>0006345318-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>511.83</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456771-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15826155</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46853074</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>HERMITAÑO PIÑA VICTORIA LIZBETH</cliente>
+    <idcuenta>0006456771-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>2</grupo>
+    <imptot>509.99</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263287-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15826178</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10466387</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>SILVA URQUIA LUIS MARIO</cliente>
+    <idcuenta>0006263287-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>508.38</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194151-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15826357</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>16635878</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ORDOQEZ LEIVA LUPE MARGOT</cliente>
+    <idcuenta>0006194151-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>501.54</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388115-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15826375</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42763359</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>DELGADO DIEZ CANSECO GEOVANNI PIER</cliente>
+    <idcuenta>0006388115-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>500.48</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388835-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>16129325</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46197885</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BRAVO CHACALTANA KAROLINE MERCEDES DEL P</cliente>
+    <idcuenta>0006388835-1</idcuenta>
+    <diasmora>65</diasmora>
+    <grupo>2</grupo>
+    <imptot>497.40</imptot>
+    <ciclo>60pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006195206-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15826514</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09370863</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>GUTIERREZ AVALOS JULIO CESAR</cliente>
+    <idcuenta>0006195206-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>497.17</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345436-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15776850</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10761670</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MENDOZA VARGAS ANA LUISA</cliente>
+    <idcuenta>0006345436-1</idcuenta>
+    <diasmora>34</diasmora>
+    <grupo>2</grupo>
+    <imptot>496.66</imptot>
+    <ciclo>30pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456828-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15826633</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43236606</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>DIAZ SAUCEDO JUANA ROSA MERCEDES</cliente>
+    <idcuenta>0006456828-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>493.29</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345434-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15825411</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06161833</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CHANTA RODRIGUEZ LUZ MARIA</cliente>
+    <idcuenta>0006345434-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>490.57</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006389113-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15826950</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09971204</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>LEON MENDEZ NEYDA NANCY</cliente>
+    <idcuenta>0006389113-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>481.02</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006389063-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15827308</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47056504</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RAMOS CHAVEZ LINDA GIULIANA</cliente>
+    <idcuenta>0006389063-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>477.10</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456849-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15827341</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80112435</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>YUPANQUI VICTORIO JULIAN</cliente>
+    <idcuenta>0006456849-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>476.86</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455456-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15827429</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42503830</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>GRADOS HUAMANI ROSSI BETTY</cliente>
+    <idcuenta>0006455456-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>471.25</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345618-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15827497</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10774301</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ORBEZO MELGAREJO OSCAR</cliente>
+    <idcuenta>0006345618-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>465.29</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456232-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15827548</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42504950</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CUEVA DIEGO CARLOS CESAR</cliente>
+    <idcuenta>0006456232-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>2</grupo>
+    <imptot>461.21</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456310-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15787721</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06553185</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MUÑOZ FLORES EMILIO</cliente>
+    <idcuenta>0006456310-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>453.09</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455348-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15827618</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07523365</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>VENEGAS ZAVALETA MARCELINO</cliente>
+    <idcuenta>0006455348-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>451.64</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456714-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15827673</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47024328</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PALACIOS GARCIA MARICRUZ EUCEVIA</cliente>
+    <idcuenta>0006456714-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>2</grupo>
+    <imptot>447.89</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006389193-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15827760</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41941772</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BADILLO PORRAS ERICK JOHNNATHAN</cliente>
+    <idcuenta>0006389193-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>445.15</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006389107-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15827840</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09020094</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CARRERA GIRON EDGARDO LADEMIRO</cliente>
+    <idcuenta>0006389107-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>443.25</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388814-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15787802</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45020952</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ALARCON QUISPE CHARMELI AMELIA</cliente>
+    <idcuenta>0006388814-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>431.12</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345308-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15827472</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42879347</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CALLE COBEÑAS PAMELA TERESA</cliente>
+    <idcuenta>0006345308-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>418.06</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456637-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829206</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10629621</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>SALAS ARMAS JOHAN JERY</cliente>
+    <idcuenta>0006456637-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>404.04</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455735-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829027</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08610967</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>GUIZABALO RODRIGUEZ IRMA</cliente>
+    <idcuenta>0006455735-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>397.41</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006031965-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829308</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>17623163</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BANCES TORRES JUAN CARLOS</cliente>
+    <idcuenta>0006031965-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>2</grupo>
+    <imptot>383.39</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455497-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829351</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80651850</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>REYES ROMERO CARLA YUVITZA</cliente>
+    <idcuenta>0006455497-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>380.96</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345038-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15776171</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45397831</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>OTAYZAR ROBLES JAMIE RAUL</cliente>
+    <idcuenta>0006345038-1</idcuenta>
+    <diasmora>34</diasmora>
+    <grupo>2</grupo>
+    <imptot>372.86</imptot>
+    <ciclo>30pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006344867-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829648</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45553587</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BOCANEGRA FLORES SUELEN STEFANNIE</cliente>
+    <idcuenta>0006344867-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>369.01</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388025-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829709</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06271628</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>IRRIBARREN PANCORVO CESAR AUGUSTO</cliente>
+    <idcuenta>0006388025-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>364.51</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155192-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829800</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07372084</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ANCIETA SANCHEZ DE VALERA GERTRUDEZ ROSA</cliente>
+    <idcuenta>0006155192-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>361.59</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006195114-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15830542</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40715567</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CULQUI MARTINEZ SOFIA   </cliente>
+    <idcuenta>0006195114-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>359.17</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455790-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829947</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42748970</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Soria Molina Rosa</cliente>
+    <idcuenta>0006455790-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>352.56</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006031916-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15776233</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10201700</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>FENCO RIOS RICHAR SANDRO</cliente>
+    <idcuenta>0006031916-1</idcuenta>
+    <diasmora>34</diasmora>
+    <grupo>2</grupo>
+    <imptot>336.02</imptot>
+    <ciclo>30pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456270-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15830287</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45401113</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>SALAZAR VASQUEZ DANNY</cliente>
+    <idcuenta>0006456270-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>334.94</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263284-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15776319</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46356577</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ZENOZAIN VALENZUELA GERALDINE GIULLIANA</cliente>
+    <idcuenta>0006263284-1</idcuenta>
+    <diasmora>34</diasmora>
+    <grupo>2</grupo>
+    <imptot>331.21</imptot>
+    <ciclo>30pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155198-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15776884</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80014312</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>AQUINO CHUMBE TIMOTEO</cliente>
+    <idcuenta>0006155198-1</idcuenta>
+    <diasmora>34</diasmora>
+    <grupo>2</grupo>
+    <imptot>326.28</imptot>
+    <ciclo>30pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455988-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15830932</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43564758</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RAMOS QUISPE JORGE LUIS</cliente>
+    <idcuenta>0006455988-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>322.66</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006154662-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15828881</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47201543</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CIEZA VELASQUEZ EDGAR IVAN</cliente>
+    <idcuenta>0006154662-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>322.52</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155469-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15833610</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40431499</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CANO MU?OZ ROSARIO</cliente>
+    <idcuenta>0006155469-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>297.25</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388840-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15833759</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45011952</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MEZA CRISANTO DEIBY ANGEL</cliente>
+    <idcuenta>0006388840-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>290.67</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345479-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>16129709</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46151489</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RODRIGUEZ CORDOVA MAYRA LIZETH</cliente>
+    <idcuenta>0006345479-1</idcuenta>
+    <diasmora>65</diasmora>
+    <grupo>2</grupo>
+    <imptot>273.29</imptot>
+    <ciclo>60pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456237-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15789013</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42785354</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>SOLARI ROBLES JOSE ALBERTO</cliente>
+    <idcuenta>0006456237-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>268.83</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006032186-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15788374</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47845398</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PACAYA GONZALES SUSAN SHEYLA</cliente>
+    <idcuenta>0006032186-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>265.72</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263275-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15833876</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44729590</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ACUÑA VICENTE PEDRO</cliente>
+    <idcuenta>0006263275-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>3</grupo>
+    <imptot>264.85</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006032224-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15776920</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>25507458</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RAMOS AROQUIPA LORENZA ROSA</cliente>
+    <idcuenta>0006032224-1</idcuenta>
+    <diasmora>34</diasmora>
+    <grupo>2</grupo>
+    <imptot>260.98</imptot>
+    <ciclo>30pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194861-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15764238</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06740108</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Narvaez Marquina Bernabita Eulalia</cliente>
+    <idcuenta>0006194861-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>245.74</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006195076-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829078</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46114525</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ESTRADA DEPAZ ALEXANDER FELIPE</cliente>
+    <idcuenta>0006195076-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>242.23</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388368-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15777223</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08080737</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>FLORENTINO PASMI?O DE ESPEJO JUDITH JUANA</cliente>
+    <idcuenta>0006388368-1</idcuenta>
+    <diasmora>34</diasmora>
+    <grupo>2</grupo>
+    <imptot>233.46</imptot>
+    <ciclo>30pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006387805-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829191</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80128844</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>NALVARTE MARAVI MARCO ANTONIO</cliente>
+    <idcuenta>0006387805-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>226.86</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006031840-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829349</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43101575</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MACO ROMERO MARIA ISABEL</cliente>
+    <idcuenta>0006031840-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>224.62</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194406-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15834230</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41758256</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MENDOZA ZAMBRANO IRENEO PABLO</cliente>
+    <idcuenta>0006194406-1</idcuenta>
+    <diasmora>94</diasmora>
+    <grupo>5</grupo>
+    <imptot>218.04</imptot>
+    <ciclo>90</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006154525-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15765257</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10886073</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>QUISPE TRUJILLO VICTOR ALFONSO</cliente>
+    <idcuenta>0006154525-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>177.49</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006389139-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829476</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42443242</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>VALENTIN CAMACHO MICHAEL ROBINSON</cliente>
+    <idcuenta>0006389139-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>161.38</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455143-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15834562</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46010156</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>FLORES NOVOA PERCY URIAS</cliente>
+    <idcuenta>0006455143-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>159.88</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155378-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15777361</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45962582</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RODRIGUEZ CAPAIBA JULIO CESAR</cliente>
+    <idcuenta>0006155378-1</idcuenta>
+    <diasmora>34</diasmora>
+    <grupo>2</grupo>
+    <imptot>158.18</imptot>
+    <ciclo>30pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388801-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15834705</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44444992</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MEDINA CORDERO KAREN</cliente>
+    <idcuenta>0006388801-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>157.70</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155080-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15765391</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08477760</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>EGUSQUIZA QUISPE GLADIS VICTORIA</cliente>
+    <idcuenta>0006155080-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>151.79</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345913-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15830709</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06891324</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MIRANDA JINES RONALD MANUEL</cliente>
+    <idcuenta>0006345913-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>151.22</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345810-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829665</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09903226</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PARIGUANA PUMAHUILLCA PLACIDO</cliente>
+    <idcuenta>0006345810-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>149.61</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194874-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15830782</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43214573</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>KOC HERRERA LUIS ALFONSO</cliente>
+    <idcuenta>0006194874-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>140.92</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006387836-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15830888</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46595083</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>GONZALES OLGUIN DIANA CLARISA</cliente>
+    <idcuenta>0006387836-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>138.80</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263303-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15829712</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06556015</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>DULANTO LEON RAFAEL ALBERTO</cliente>
+    <idcuenta>0006263303-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>137.75</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345381-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15835118</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>44138582</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>AVILA PEÑA JOSE LUIS</cliente>
+    <idcuenta>0006345381-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>134.61</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194410-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15835186</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08037991</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ALAYO ROMERO JESUS</cliente>
+    <idcuenta>0006194410-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>132.50</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006388151-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15835217</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07145086</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CORZO MEDINA JUAN JESUS</cliente>
+    <idcuenta>0006388151-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>126.32</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345924-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15765422</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06894562</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BARRANTES LA ROSA MARIA LUISA</cliente>
+    <idcuenta>0006345924-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>125.99</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006344942-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15833567</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>09909505</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>GUTIERREZ ALLCCARIMA CARLOS ARTURO</cliente>
+    <idcuenta>0006344942-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>114.41</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006031964-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15835333</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43591061</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>PALOMINO  ROMERO STEFFANO</cliente>
+    <idcuenta>0006031964-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>114.38</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006155285-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15833600</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07441242</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BENITES RODRIGUEZ ANGEL</cliente>
+    <idcuenta>0006155285-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>110.72</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006154633-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15765481</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>45307201</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MAMANI PAREDES JAVIER ANTONIO</cliente>
+    <idcuenta>0006154633-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>107.43</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263375-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15765488</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>10217647</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>AGUIRRE CASTRO JOSE ANTONIO</cliente>
+    <idcuenta>0006263375-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>102.61</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006262981-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15833690</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>47564409</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RISCO QUINTOS ENGELES SOL</cliente>
+    <idcuenta>0006262981-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>101.67</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006456538-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15833717</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>08848920</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>ANGULO LOPEZ SEGUNDO LEOPOLDO</cliente>
+    <idcuenta>0006456538-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>101.57</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345865-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15833793</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>06935383</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>GUEVARA BERNAL JOSE M.</cliente>
+    <idcuenta>0006345865-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>98.50</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455888-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15765513</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07173937</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>VILLENA JUSTINIANIO PEDRO RIDER</cliente>
+    <idcuenta>0006455888-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>91.61</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006345533-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15833952</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>41864486</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>QUISPE SAIRE ROLLY ENRIQUE</cliente>
+    <idcuenta>0006345533-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>88.95</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455166-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15835440</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40157712</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>CONDOLO SERNAQUE HECTOR</cliente>
+    <idcuenta>0006455166-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>88.57</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006194479-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15835466</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>20667973</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MERCADO VILLAGARAY SANTOS</cliente>
+    <idcuenta>0006194479-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>84.87</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006346009-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15833968</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>40878746</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>Rioja Aguilar Olga Giovanna</cliente>
+    <idcuenta>0006346009-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>82.80</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006455820-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15765563</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>42685359</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>NECIOSUP CHAPOÑAN ADAN</cliente>
+    <idcuenta>0006455820-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>82.41</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006195196-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15834023</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>46854638</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BARRETO RONDON JHONATHAN MICHAEL</cliente>
+    <idcuenta>0006195196-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>81.77</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006263454-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15835532</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>07301561</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>LOAYZA ALCANTARA LUIS ALBERTO</cliente>
+    <idcuenta>0006263454-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>71.81</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006346074-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15765595</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>80222010</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>MARTINEZ SOTO RAUL YHON</cliente>
+    <idcuenta>0006346074-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>67.79</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006542115-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15834242</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>43673520</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>RAMOS ATENCIO JHON ARTURO</cliente>
+    <idcuenta>0006542115-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>54.36</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+  <fila id="0006540707-1">
+    <fec_ges_max>2012-09-13</fec_ges_max>
+    <t_gestion>0</t_gestion>
+    <periodo>22</periodo>
+    <ano>2012</ano>
+    <mes>9</mes>
+    <idgestion>15830480</idgestion>
+    <idusuario>52</idusuario>
+    <idcliente>19998193</idcliente>
+    <proveedor>TNP</proveedor>
+    <moneda>Soles</moneda>
+    <cliente>BERAUN LOYOLA RODRIGO OMAR</cliente>
+    <idcuenta>0006540707-1</idcuenta>
+    <diasmora>3</diasmora>
+    <grupo>2</grupo>
+    <imptot>46.24</imptot>
+    <ciclo>0pp</ciclo>
+    <idestado>1</idestado>
+  </fila>
+</cuentas>

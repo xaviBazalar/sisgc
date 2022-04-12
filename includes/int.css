@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+.btn_zip{
+	background-image:url(zip.png);
+	width:28px;
+	height:28px;
+	cursor:pointer;
+	border:0px;
+}
+.btn_xls{
+	background-image:url(temario_excel_1.png);
+	width:28px;
+	height:28px;
+	cursor:pointer;
+	border:0px;
+}
+.cl td{
+	border-bottom:1px solid #C0C0C0;
+	text-align:center;
+	
+}
+
+.ct th{
+	background-color:#4682B4;
+	color:white;
+}
+
+.cl2 td{
+	color:white;
+	border-bottom:1px solid #C0C0C0;
+	/*background-color:#FA8072;*/
+	background-color:#A52A2A;
+	text-align:center;
+	
+}
+.cl2:hover{
+cursor:pointer;
+color:white;
+ 
+ 
+}
+
+.cl th{
+	border-bottom:1px solid #C0C0C0;
+}
+
+.button_c{
+	background-image:url(calendario.png);
+	width:28px;
+	height:28px;
+	border:none;
+	cursor:pointer;
+}
+
+#cab{
+	/*background-color:#4682B4;*/
+	background-image:url(fondo.jpg);
+	background-repeat:no-repeat;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:white;
+	padding:10px;
+	font-size:16px
+}
+

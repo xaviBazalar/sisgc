@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin: 0px; padding: 0px;
+	color: #FFF;
+	font-size : 12px;
+	font-family : tahoma, Arial, Helvetica, sans-serif;
+	}
+#ykWrapper {
+	margin-left:0;
+	margin-right:auto;
+	margin-top:auto;
+	margin-bottom:auto;
+	padding:0;
+	width:800px;
+	height:400px;
+	display:table;
+	position:absolute;
+}
+#ykLeft { 
+	margin:120px 0;
+	padding:0;
+	height:320px;
+	}
+	#ykLeft img{ padding:20px; margin-top:15%; margin-bottom:auto;}
+#ykRight {	
+	
+	margin:120px 0;
+	padding:0;
+	height:320px;
+	}
+	
+#wrapper {
+}
+h2 {
+	color:#F5f5f5;;
+	font: bold 12px Tahoma, sans-serif;	
+	padding:3px 0 4px 10px; margin:0;
+	display:block;
+	background-color:#1070BD;
+	}
+.login {
+	margin-left:50%; margin-right: auto; margin-top:auto; 
+	padding: 3px 3px 0px 3px;
+	border-width:1px;
+	border-style:solid;
+	border-color: #FFF #999 #999 #FFF;
+	width:300px;
+	height:auto;
+	display:block;
+	/*background-color:#DBE9F1;*/
+}
+.form-block {
+	border-width:1px;
+	border-style:solid;
+	border-color:#9BBDD9 #FFFFFF #FFFFFF #9BBDD9;
+	padding: 15px 10px 10px 10px;
+	width:278px;
+	margin:4px 0 0 0;
+	height:auto;
+	/*background-color:#D2E3EE;*/
+}	
+.form-block span{ 
+	display:block; 
+	text-align:center;
+	margin-bottom:5px;
+	color:#006699;
+	}
+.inputlabel {
+	text-align: center;
+	color:#333;
+	float:left;
+	width:100px;
+	padding-right:10px;
+	}
+.inputbox {
+	width: 150px;
+	margin: 0 0 1em 0;
+	border: 1px solid #268ECC;
+	}
+.button {
+	border:0px solid #FFFFFF;
+	background: #0189C5;
+	color : #FFF;
+	font-weight : bold;
+	font-size : 11px;
+	padding: 6px 12px 6px 12px;
+}	
+
+.chek { 
+	margin:0px 10px;
+	background-color:#92C1E4;
+	padding:10px;
+	color: #333333;
+	}
+.footer {
+	padding:10px 10px 10px 30px;
+	width:300px;
+	text-align:center;
+	font-size:11px;
+	}	
+	.footer a { color:#92C1E4;}	
+
+h3 {vertical-align:top;}	
+#header {
+	background-color: #FFF;
+	border-bottom: 4px solid #80B5D7;
+}
